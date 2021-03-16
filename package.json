@@ -1,16 +1,16 @@
 {
-  "name": "hearts",
+  "name": "hearts-hand-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creates PDF files with dealt hearts hands",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Lance Held",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "9.0.0",
-    "lodash": "4.17.15",
-    "pdfmake": "0.1.65"
+    "fs-extra": "9.1.0",
+    "lodash": "4.17.21",
+    "pdfmake": "0.1.70"
   }
 }
