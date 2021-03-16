@@ -1,0 +1,606 @@
+Player Count: 6
+
+   Round 1: Player 1 - 4♣︎ J♣︎ K♣︎ A♣︎ A♣︎ K♢ K♢ 2♡ 5♡ 5♡ 6♡ 3♠︎ 7♠︎ 10♠︎ J♠︎ K♠︎
+   Round 1: Player 2 - 3♣︎ 2♢ 4♢ Q♢ A♢ 7♡ 7♡ 10♡ 10♡ Q♡ K♡ 2♠︎ 4♠︎ 7♠︎ Q♠︎ A♠︎
+   Round 1: Player 3 - 5♣︎ 6♣︎ 8♣︎ 10♣︎ Q♣︎ 7♢ 8♢ 9♢ 6♡ 9♡ Q♡ K♡ 2♠︎ 6♠︎ 9♠︎ A♠︎
+   Round 1: Player 4 - 2♣︎ 2♣︎ 4♣︎ 8♣︎ 3♢ 3♢ 5♢ 5♢ J♢ 3♡ J♡ 5♠︎ 8♠︎ 9♠︎ Q♠︎ K♠︎
+   Round 1: Player 5 - 5♣︎ 7♣︎ 7♣︎ 9♣︎ K♣︎ 6♢ 10♢ 10♢ J♢ A♢ 3♡ 8♡ 9♡ 6♠︎ 8♠︎ 10♠︎
+   Round 1: Player 6 - 3♣︎ 6♣︎ 10♣︎ J♣︎ 2♢ 4♢ 6♢ 7♢ 9♢ Q♢ 2♡ 4♡ 4♡ 3♠︎ 4♠︎ J♠︎
+   Round 1: KITTY - 9♣︎ Q♣︎ 8♢ 8♡ J♡ A♡ A♡ 5♠︎
+
+   Round 2: Player 1 - 2♣︎ 7♣︎ A♣︎ 5♢ 6♢ 7♢ 7♢ 10♢ J♢ 8♡ J♡ 5♠︎ 5♠︎ 6♠︎ 7♠︎ J♠︎
+   Round 2: Player 2 - 7♣︎ 10♣︎ K♣︎ 3♢ 4♢ 9♢ 10♢ K♢ A♢ 2♡ 3♡ 3♡ 5♡ 7♡ Q♡ 10♠︎
+   Round 2: Player 3 - 3♣︎ 4♣︎ 6♣︎ 8♣︎ 8♣︎ J♣︎ Q♣︎ 3♢ 5♢ 5♡ 6♡ 6♡ J♡ K♡ 3♠︎ 4♠︎
+   Round 2: Player 4 - 5♣︎ 5♣︎ 9♣︎ 10♣︎ Q♣︎ 2♢ 8♢ 7♡ 8♡ K♡ A♡ 2♠︎ 9♠︎ J♠︎ K♠︎ A♠︎
+   Round 2: Player 5 - 4♣︎ 6♣︎ A♣︎ 4♢ 6♢ 9♢ K♢ 4♡ 4♡ 9♡ Q♡ 2♠︎ 7♠︎ 8♠︎ 8♠︎ Q♠︎
+   Round 2: Player 6 - 3♣︎ 9♣︎ J♣︎ K♣︎ 2♢ 8♢ J♢ Q♢ 9♡ 10♡ A♡ 3♠︎ 10♠︎ Q♠︎ K♠︎ A♠︎
+   Round 2: KITTY - 2♣︎ Q♢ A♢ 2♡ 10♡ 4♠︎ 6♠︎ 9♠︎
+
+   Round 3: Player 1 - 3♣︎ 6♣︎ 7♣︎ K♣︎ J♢ K♢ 2♡ 3♡ 3♡ Q♡ 3♠︎ 5♠︎ 6♠︎ 7♠︎ 7♠︎ Q♠︎
+   Round 3: Player 2 - 9♣︎ 10♣︎ 8♢ Q♢ 6♡ 6♡ 9♡ J♡ A♡ 2♠︎ 5♠︎ 9♠︎ 10♠︎ J♠︎ K♠︎ A♠︎
+   Round 3: Player 3 - 4♣︎ 8♣︎ J♣︎ K♣︎ 2♢ 4♢ 5♢ 6♢ 5♡ 7♡ 8♡ 9♡ K♡ A♡ 10♠︎ K♠︎
+   Round 3: Player 4 - 4♣︎ 10♣︎ A♣︎ A♣︎ 3♢ 4♢ 5♢ K♢ A♢ 2♡ 7♡ 8♡ Q♡ K♡ 2♠︎ 6♠︎
+   Round 3: Player 5 - 7♣︎ 8♣︎ J♣︎ Q♣︎ 2♢ 7♢ 8♢ 9♢ 9♢ 10♢ 10♢ 5♡ 10♡ 8♠︎ Q♠︎ A♠︎
+   Round 3: Player 6 - 2♣︎ 5♣︎ 5♣︎ 6♣︎ 9♣︎ Q♣︎ 6♢ Q♢ A♢ 4♡ 4♡ 10♡ J♡ 4♠︎ 8♠︎ 9♠︎
+   Round 3: KITTY - 2♣︎ 3♣︎ 3♢ 7♢ J♢ 3♠︎ 4♠︎ J♠︎
+
+   Round 4: Player 1 - 3♣︎ 6♣︎ 8♣︎ 10♣︎ 2♢ 3♢ 7♢ 8♢ Q♢ A♢ 3♡ 10♡ J♡ 3♠︎ 7♠︎ Q♠︎
+   Round 4: Player 2 - 3♣︎ 4♣︎ 9♣︎ J♣︎ J♣︎ A♣︎ 4♢ 10♢ 8♡ 10♡ A♡ 2♠︎ 4♠︎ 4♠︎ 9♠︎ K♠︎
+   Round 4: Player 3 - K♣︎ 2♢ 4♢ 5♢ 6♢ K♢ A♢ 2♡ 4♡ 7♡ 9♡ J♡ 5♠︎ 6♠︎ 8♠︎ 8♠︎
+   Round 4: Player 4 - 2♣︎ 2♣︎ 5♣︎ 5♣︎ 6♣︎ 8♣︎ 9♣︎ 10♣︎ K♣︎ 3♢ J♢ 5♡ 6♡ 3♠︎ 6♠︎ 10♠︎
+   Round 4: Player 5 - 7♣︎ Q♣︎ 6♢ 9♢ 9♢ J♢ 2♡ 3♡ 5♡ 9♡ K♡ 7♠︎ 9♠︎ 10♠︎ J♠︎ A♠︎
+   Round 4: Player 6 - 4♣︎ 7♣︎ A♣︎ 5♢ 7♢ 10♢ Q♢ 6♡ 7♡ 8♡ Q♡ A♡ 2♠︎ J♠︎ Q♠︎ K♠︎
+   Round 4: KITTY - Q♣︎ 8♢ K♢ 4♡ Q♡ K♡ 5♠︎ A♠︎
+
+   Round 5: Player 1 - 2♣︎ 3♣︎ 4♣︎ 5♣︎ 5♣︎ 6♣︎ 2♢ 2♢ J♢ 5♡ 6♡ A♡ 8♠︎ J♠︎ Q♠︎ A♠︎
+   Round 5: Player 2 - 8♣︎ 9♣︎ 10♣︎ J♣︎ K♢ A♢ 3♡ 5♡ 6♡ 8♡ 8♡ J♡ A♡ 3♠︎ 7♠︎ 8♠︎
+   Round 5: Player 3 - 8♣︎ 3♢ 8♢ 9♢ 10♢ Q♢ K♢ 2♡ Q♡ 2♠︎ 4♠︎ 6♠︎ 7♠︎ 9♠︎ Q♠︎ A♠︎
+   Round 5: Player 4 - 4♣︎ 6♣︎ 7♣︎ Q♣︎ K♣︎ 4♢ 5♢ 6♢ 7♢ 4♡ 7♡ 9♡ Q♡ K♡ 6♠︎ 10♠︎
+   Round 5: Player 5 - 3♣︎ 10♣︎ K♣︎ A♣︎ 6♢ 7♢ 8♢ J♢ Q♢ A♢ 10♡ J♡ 2♠︎ 3♠︎ 4♠︎ K♠︎
+   Round 5: Player 6 - 9♣︎ Q♣︎ A♣︎ 3♢ 5♢ 10♢ 2♡ 3♡ 4♡ 9♡ K♡ 5♠︎ 5♠︎ 10♠︎ J♠︎ K♠︎
+   Round 5: KITTY - 2♣︎ 7♣︎ J♣︎ 4♢ 9♢ 7♡ 10♡ 9♠︎
+
+   Round 6: Player 1 - 6♣︎ 10♣︎ Q♣︎ 2♢ 3♢ Q♢ K♢ 4♡ 6♡ 7♡ 9♡ Q♡ A♡ 5♠︎ 8♠︎ A♠︎
+   Round 6: Player 2 - 4♣︎ 5♣︎ 8♣︎ J♣︎ A♣︎ 4♢ 8♢ J♢ 4♡ 6♡ 2♠︎ 4♠︎ 6♠︎ J♠︎ K♠︎ K♠︎
+   Round 6: Player 3 - 4♣︎ 9♣︎ J♣︎ 6♢ 8♢ 10♢ K♢ 3♡ J♡ Q♡ A♡ 2♠︎ 9♠︎ 9♠︎ Q♠︎ A♠︎
+   Round 6: Player 4 - 3♣︎ 7♣︎ 8♣︎ 10♣︎ A♣︎ 4♢ 7♢ 10♢ A♢ 2♡ 3♡ 8♡ J♡ 3♠︎ 10♠︎ Q♠︎
+   Round 6: Player 5 - 5♣︎ 6♣︎ K♣︎ 5♢ 5♢ 9♢ J♢ Q♢ A♢ 5♡ 10♡ 3♠︎ 4♠︎ 6♠︎ 8♠︎ J♠︎
+   Round 6: Player 6 - 3♣︎ 9♣︎ Q♣︎ 2♢ 3♢ 9♢ 5♡ 7♡ 8♡ 9♡ 10♡ K♡ K♡ 7♠︎ 7♠︎ 10♠︎
+   Round 6: KITTY - 2♣︎ 2♣︎ 7♣︎ K♣︎ 6♢ 7♢ 2♡ 5♠︎
+
+   Round 7: Player 1 - Q♣︎ K♣︎ 2♢ 4♢ 5♢ 5♢ 7♢ 10♢ Q♢ 6♡ K♡ A♡ 3♠︎ 9♠︎ 10♠︎ Q♠︎
+   Round 7: Player 2 - 2♣︎ A♣︎ 3♢ 4♢ 9♢ K♢ A♢ 5♡ 8♡ J♡ 4♠︎ 6♠︎ 8♠︎ 8♠︎ 9♠︎ 10♠︎
+   Round 7: Player 3 - 3♣︎ 5♣︎ 5♣︎ 8♣︎ 9♣︎ 8♢ 2♡ 3♡ 4♡ 4♡ 5♡ Q♡ A♡ 6♠︎ 7♠︎ K♠︎
+   Round 7: Player 4 - 3♣︎ 4♣︎ 7♣︎ 7♣︎ 8♢ 9♢ 10♢ J♢ 7♡ 7♡ 9♡ Q♡ J♠︎ K♠︎ A♠︎ A♠︎
+   Round 7: Player 5 - 4♣︎ 6♣︎ 8♣︎ 9♣︎ 10♣︎ J♣︎ A♣︎ 2♢ J♢ Q♢ K♢ 3♠︎ 5♠︎ 5♠︎ J♠︎ Q♠︎
+   Round 7: Player 6 - 2♣︎ 6♣︎ 10♣︎ J♣︎ Q♣︎ 6♢ 7♢ A♢ 3♡ 6♡ 9♡ 10♡ 10♡ J♡ 2♠︎ 7♠︎
+   Round 7: KITTY - K♣︎ 3♢ 6♢ 2♡ 8♡ K♡ 2♠︎ 4♠︎
+
+   Round 8: Player 1 - 2♣︎ 5♣︎ J♣︎ Q♣︎ 6♢ 2♡ 5♡ 6♡ 7♡ 8♡ A♡ 3♠︎ 4♠︎ 8♠︎ 9♠︎ A♠︎
+   Round 8: Player 2 - 7♣︎ 8♣︎ 10♣︎ 10♣︎ 10♢ 2♡ 3♡ 3♡ 9♡ 9♡ 2♠︎ 2♠︎ 3♠︎ J♠︎ K♠︎ K♠︎
+   Round 8: Player 3 - 4♣︎ 8♣︎ Q♣︎ K♣︎ A♣︎ 2♢ 3♢ 5♢ 10♢ 10♡ 10♡ Q♡ 7♠︎ 9♠︎ 10♠︎ A♠︎
+   Round 8: Player 4 - 3♣︎ 4♣︎ 9♣︎ 9♣︎ K♣︎ A♣︎ 5♢ 6♢ Q♢ K♢ 4♡ 5♡ 7♡ J♡ 5♠︎ 8♠︎
+   Round 8: Player 5 - 6♣︎ 7♣︎ J♣︎ 3♢ 4♢ 7♢ 8♢ 9♢ J♢ J♢ 4♡ 8♡ J♡ 5♠︎ 6♠︎ 6♠︎
+   Round 8: Player 6 - 2♣︎ 3♣︎ 6♣︎ 2♢ 4♢ 8♢ 9♢ Q♢ K♢ A♢ 6♡ Q♡ 4♠︎ 7♠︎ J♠︎ Q♠︎
+   Round 8: KITTY - 5♣︎ 7♢ A♢ K♡ K♡ A♡ 10♠︎ Q♠︎
+
+   Round 9: Player 1 - 3♣︎ 4♣︎ A♣︎ 2♢ Q♢ 3♡ 4♡ 6♡ 7♡ J♡ Q♡ 2♠︎ 3♠︎ 4♠︎ 6♠︎ Q♠︎
+   Round 9: Player 2 - 4♣︎ 6♣︎ 7♣︎ 8♣︎ 9♣︎ 3♢ 8♢ 10♢ 2♡ 7♡ K♡ 3♠︎ 5♠︎ 8♠︎ 9♠︎ Q♠︎
+   Round 9: Player 3 - 5♣︎ 10♣︎ J♣︎ 3♢ 5♢ 6♢ 8♢ J♢ Q♢ K♢ 5♡ 9♡ 10♡ J♡ Q♡ 10♠︎
+   Round 9: Player 4 - 3♣︎ 5♣︎ 8♣︎ 9♣︎ J♣︎ Q♣︎ 5♢ 9♢ 2♡ 5♡ 6♡ 8♡ 2♠︎ 6♠︎ 7♠︎ A♠︎
+   Round 9: Player 5 - 2♣︎ 10♣︎ 4♢ 4♢ 6♢ 10♢ A♢ 8♡ A♡ 5♠︎ 7♠︎ 8♠︎ 10♠︎ J♠︎ K♠︎ A♠︎
+   Round 9: Player 6 - 2♣︎ 6♣︎ 7♣︎ Q♣︎ K♣︎ K♣︎ 2♢ 7♢ 3♡ 4♡ 10♡ K♡ 4♠︎ 9♠︎ J♠︎ K♠︎
+   Round 9: KITTY - A♣︎ 7♢ 9♢ J♢ K♢ A♢ 9♡ A♡
+
+   Round 10: Player 1 - 2♣︎ 3♣︎ 3♣︎ 7♣︎ 8♣︎ 10♣︎ Q♣︎ 2♢ 6♢ 9♢ 10♢ 9♡ 3♠︎ 9♠︎ 10♠︎ A♠︎
+   Round 10: Player 2 - 5♣︎ K♣︎ 7♢ 10♢ J♢ J♢ K♢ K♢ J♡ Q♡ A♡ 4♠︎ 6♠︎ 7♠︎ 8♠︎ Q♠︎
+   Round 10: Player 3 - 4♣︎ 2♢ 6♢ Q♢ A♢ 2♡ 4♡ 5♡ 6♡ 7♡ J♡ Q♡ K♡ 2♠︎ 4♠︎ J♠︎
+   Round 10: Player 4 - 5♣︎ 9♣︎ 10♣︎ J♣︎ Q♣︎ 3♢ 3♢ 4♢ 5♢ Q♢ 3♡ 5♡ 8♡ 2♠︎ 10♠︎ Q♠︎
+   Round 10: Player 5 - 4♣︎ 6♣︎ 7♣︎ 9♣︎ K♣︎ A♣︎ 5♢ 6♡ 8♡ 9♡ K♡ 5♠︎ 6♠︎ 7♠︎ 8♠︎ A♠︎
+   Round 10: Player 6 - 2♣︎ 8♣︎ J♣︎ 4♢ 7♢ 8♢ 8♢ A♢ 3♡ 4♡ 7♡ 10♡ A♡ J♠︎ K♠︎ K♠︎
+   Round 10: KITTY - 6♣︎ A♣︎ 9♢ 2♡ 10♡ 3♠︎ 5♠︎ 9♠︎
+
+   Round 11: Player 1 - 6♣︎ 7♣︎ 9♣︎ Q♣︎ 4♢ 7♢ 9♢ A♢ 4♡ 5♡ J♡ Q♡ 7♠︎ 8♠︎ Q♠︎ A♠︎
+   Round 11: Player 2 - 3♣︎ 3♣︎ 4♣︎ 6♣︎ 10♣︎ Q♣︎ A♣︎ 5♢ Q♢ 2♡ 2♡ 6♡ 7♡ 9♡ J♡ 3♠︎
+   Round 11: Player 3 - 2♣︎ 5♣︎ 5♣︎ 7♢ 9♢ 10♢ A♢ 5♡ 7♡ 10♡ 2♠︎ 4♠︎ 8♠︎ 9♠︎ J♠︎ K♠︎
+   Round 11: Player 4 - 8♣︎ 9♣︎ 10♣︎ J♣︎ K♣︎ K♣︎ A♣︎ 8♢ J♢ J♢ Q♢ 10♡ K♡ 6♠︎ 10♠︎ A♠︎
+   Round 11: Player 5 - 4♣︎ 8♣︎ 2♢ 4♢ 5♢ 6♢ 8♢ 10♢ K♢ 4♡ 9♡ 3♠︎ 4♠︎ 5♠︎ 9♠︎ J♠︎
+   Round 11: Player 6 - 7♣︎ J♣︎ 2♢ 3♢ 3♢ 6♢ 3♡ 6♡ 8♡ K♡ A♡ A♡ 6♠︎ 7♠︎ Q♠︎ K♠︎
+   Round 11: KITTY - 2♣︎ K♢ 3♡ 8♡ Q♡ 2♠︎ 5♠︎ 10♠︎
+
+   Round 12: Player 1 - 4♣︎ 8♣︎ A♣︎ 5♢ 6♢ 6♢ 9♢ 3♡ 4♡ 4♡ 9♡ 10♡ 2♠︎ 3♠︎ 4♠︎ J♠︎
+   Round 12: Player 2 - 3♣︎ 3♣︎ 4♣︎ 6♣︎ 8♣︎ 8♢ 2♡ 3♡ 5♡ 8♡ J♡ Q♡ A♡ 5♠︎ 6♠︎ K♠︎
+   Round 12: Player 3 - 10♣︎ K♣︎ A♣︎ 4♢ 4♢ 5♢ 7♢ 7♢ Q♢ 7♡ Q♡ A♡ 6♠︎ 8♠︎ 10♠︎ K♠︎
+   Round 12: Player 4 - 5♣︎ 6♣︎ 9♣︎ 9♣︎ 10♣︎ J♣︎ J♣︎ 8♢ 10♢ J♢ 5♡ 6♡ 2♠︎ 7♠︎ 7♠︎ 10♠︎
+   Round 12: Player 5 - 2♣︎ 7♣︎ 7♣︎ Q♣︎ K♣︎ 3♢ 9♢ 10♢ K♢ K♢ 8♡ 3♠︎ 4♠︎ 8♠︎ Q♠︎ Q♠︎
+   Round 12: Player 6 - 2♣︎ Q♣︎ 2♢ 3♢ J♢ A♢ A♢ 2♡ 6♡ 7♡ 9♡ J♡ K♡ K♡ J♠︎ A♠︎
+   Round 12: KITTY - 5♣︎ 2♢ Q♢ 10♡ 5♠︎ 9♠︎ 9♠︎ A♠︎
+
+   Round 13: Player 1 - 4♣︎ 4♣︎ 6♣︎ 3♢ 4♢ 6♢ J♢ Q♢ A♢ 8♡ 2♠︎ 4♠︎ 8♠︎ 9♠︎ Q♠︎ A♠︎
+   Round 13: Player 2 - 3♣︎ 7♣︎ J♣︎ K♣︎ A♣︎ 7♢ 8♢ 3♡ Q♡ 2♠︎ 3♠︎ 4♠︎ 5♠︎ 5♠︎ 6♠︎ 9♠︎
+   Round 13: Player 3 - 2♣︎ 5♣︎ 6♣︎ J♣︎ 3♢ 5♢ 10♢ A♢ 2♡ 3♡ 5♡ 7♡ 9♡ A♡ J♠︎ Q♠︎
+   Round 13: Player 4 - 3♣︎ Q♣︎ Q♣︎ K♣︎ 2♢ 8♢ K♢ 4♡ 6♡ 7♡ 9♡ 10♡ J♡ 8♠︎ 10♠︎ K♠︎
+   Round 13: Player 5 - 5♣︎ 9♣︎ 10♣︎ 2♢ 7♢ 9♢ J♢ Q♢ K♢ 2♡ 4♡ 6♡ 10♡ 10♠︎ J♠︎ A♠︎
+   Round 13: Player 6 - 2♣︎ 8♣︎ 8♣︎ A♣︎ 4♢ 5♢ 6♢ 9♢ 10♢ 8♡ J♡ K♡ A♡ 7♠︎ 7♠︎ K♠︎
+   Round 13: KITTY - 7♣︎ 9♣︎ 10♣︎ 5♡ Q♡ K♡ 3♠︎ 6♠︎
+
+   Round 14: Player 1 - 2♢ 3♢ J♢ Q♢ 2♡ 6♡ 10♡ J♡ J♡ K♡ 2♠︎ 3♠︎ 6♠︎ J♠︎ A♠︎ A♠︎
+   Round 14: Player 2 - 8♣︎ 10♣︎ 5♢ 6♢ 6♢ 8♢ 10♢ 4♡ 8♡ 4♠︎ 7♠︎ 9♠︎ 10♠︎ J♠︎ Q♠︎ K♠︎
+   Round 14: Player 3 - 6♣︎ 9♣︎ A♣︎ A♣︎ 4♢ 7♢ 9♢ 10♢ Q♢ K♢ 7♡ A♡ A♡ 5♠︎ 6♠︎ 7♠︎
+   Round 14: Player 4 - 2♣︎ 4♣︎ 7♣︎ 7♣︎ 8♣︎ Q♣︎ K♣︎ 3♢ K♢ 3♡ 9♡ K♡ 2♠︎ 4♠︎ 8♠︎ 10♠︎
+   Round 14: Player 5 - 2♣︎ 3♣︎ 4♣︎ 6♣︎ 10♣︎ Q♣︎ 7♢ 8♢ J♢ A♢ A♢ 2♡ 5♡ 7♡ Q♡ 8♠︎
+   Round 14: Player 6 - 3♣︎ 9♣︎ J♣︎ J♣︎ 2♢ 4♢ 5♢ 3♡ 6♡ 8♡ 10♡ Q♡ 3♠︎ 5♠︎ Q♠︎ K♠︎
+   Round 14: KITTY - 5♣︎ 5♣︎ K♣︎ 9♢ 4♡ 5♡ 9♡ 9♠︎
+
+   Round 15: Player 1 - 3♣︎ 6♣︎ 7♣︎ 10♣︎ A♣︎ 9♢ 10♢ 10♢ Q♢ K♢ 8♡ J♡ K♡ 3♠︎ 6♠︎ K♠︎
+   Round 15: Player 2 - 2♣︎ 4♣︎ 4♣︎ 7♣︎ A♣︎ 2♢ J♢ J♢ 2♡ 3♡ 8♡ J♡ A♡ 2♠︎ 4♠︎ A♠︎
+   Round 15: Player 3 - 2♣︎ 6♣︎ 8♣︎ 10♣︎ J♣︎ K♣︎ 3♢ A♢ 5♡ 6♡ 10♡ 5♠︎ 8♠︎ 10♠︎ Q♠︎ Q♠︎
+   Round 15: Player 4 - J♣︎ Q♣︎ 3♢ 4♢ 6♢ 7♢ 8♢ 3♡ 4♡ Q♡ A♡ 3♠︎ 4♠︎ 6♠︎ 7♠︎ 8♠︎
+   Round 15: Player 5 - 8♣︎ 9♣︎ 2♢ 4♢ 5♢ 8♢ A♢ 2♡ 5♡ 6♡ 7♡ 7♡ 9♡ Q♡ 9♠︎ A♠︎
+   Round 15: Player 6 - 3♣︎ 9♣︎ K♣︎ 5♢ 6♢ 7♢ Q♢ K♢ 10♡ K♡ 2♠︎ 5♠︎ 9♠︎ 10♠︎ J♠︎ K♠︎
+   Round 15: KITTY - 5♣︎ 5♣︎ Q♣︎ 9♢ 4♡ 9♡ 7♠︎ J♠︎
+
+   Round 16: Player 1 - 9♣︎ 9♣︎ J♣︎ 4♢ 6♢ Q♢ 2♡ 4♡ 5♡ 10♡ Q♡ 2♠︎ 2♠︎ 3♠︎ 6♠︎ 7♠︎
+   Round 16: Player 2 - 3♣︎ 4♣︎ 6♣︎ K♣︎ 6♢ 10♢ K♢ A♢ 4♡ 10♡ A♡ 4♠︎ 6♠︎ 7♠︎ 8♠︎ 9♠︎
+   Round 16: Player 3 - 6♣︎ 7♣︎ 8♣︎ 10♣︎ 10♣︎ 5♢ 7♢ 7♢ J♢ 7♡ 9♡ K♡ 3♠︎ 8♠︎ 10♠︎ Q♠︎
+   Round 16: Player 4 - 3♣︎ 5♣︎ 7♣︎ 3♢ 5♢ 9♢ 3♡ 3♡ 6♡ J♡ J♡ 4♠︎ 5♠︎ J♠︎ Q♠︎ K♠︎
+   Round 16: Player 5 - 2♣︎ 2♣︎ J♣︎ A♣︎ 2♢ 2♢ 4♢ 8♢ 8♢ 10♢ A♢ 2♡ 8♡ K♡ 9♠︎ J♠︎
+   Round 16: Player 6 - 8♣︎ Q♣︎ Q♣︎ A♣︎ 3♢ 9♢ J♢ Q♢ K♢ 6♡ 7♡ 9♡ A♡ K♠︎ A♠︎ A♠︎
+   Round 16: KITTY - 4♣︎ 5♣︎ K♣︎ 5♡ 8♡ Q♡ 5♠︎ 10♠︎
+
+   Round 17: Player 1 - 6♣︎ 9♣︎ 10♣︎ K♣︎ 5♢ 6♢ 7♢ 8♢ 9♢ Q♢ K♢ 5♡ 9♡ Q♠︎ K♠︎ K♠︎
+   Round 17: Player 2 - 2♣︎ 4♣︎ 10♣︎ A♣︎ 2♢ 8♢ 10♢ 3♡ 4♡ 4♡ 7♡ A♡ 4♠︎ 8♠︎ 8♠︎ 10♠︎
+   Round 17: Player 3 - 5♣︎ 7♣︎ 9♣︎ J♣︎ A♣︎ 4♢ 6♡ 9♡ J♡ Q♡ K♡ 3♠︎ 3♠︎ 7♠︎ 9♠︎ A♠︎
+   Round 17: Player 4 - 3♣︎ 4♣︎ 6♣︎ 6♢ 9♢ J♢ 2♡ 2♡ 5♡ 7♡ 10♡ 10♡ Q♡ K♡ 2♠︎ Q♠︎
+   Round 17: Player 5 - 8♣︎ 3♢ 5♢ 7♢ J♢ Q♢ A♢ A♢ 3♡ 8♡ J♡ A♡ 6♠︎ 7♠︎ 9♠︎ A♠︎
+   Round 17: Player 6 - 2♣︎ 3♣︎ 7♣︎ 8♣︎ Q♣︎ K♣︎ 2♢ 3♢ 10♢ K♢ 6♡ 8♡ 2♠︎ 5♠︎ J♠︎ J♠︎
+   Round 17: KITTY - 5♣︎ J♣︎ Q♣︎ 4♢ 4♠︎ 5♠︎ 6♠︎ 10♠︎
+
+   Round 18: Player 1 - 2♣︎ 2♣︎ 5♣︎ Q♣︎ 5♢ K♢ K♢ 4♡ 6♡ 7♡ 9♡ 10♡ Q♡ 3♠︎ 10♠︎ J♠︎
+   Round 18: Player 2 - 4♣︎ 6♣︎ A♣︎ A♣︎ 3♢ 3♡ 5♡ J♡ A♡ 2♠︎ 2♠︎ 10♠︎ Q♠︎ K♠︎ A♠︎ A♠︎
+   Round 18: Player 3 - 6♣︎ 9♣︎ 3♢ 4♢ 6♢ 7♢ 10♢ J♢ Q♢ Q♢ 3♡ Q♡ K♡ 5♠︎ 7♠︎ 9♠︎
+   Round 18: Player 4 - 3♣︎ 8♣︎ 9♣︎ 10♣︎ 10♣︎ J♣︎ 2♢ 4♢ 7♢ 8♢ 10♢ 4♡ 8♡ 9♡ J♡ 7♠︎
+   Round 18: Player 5 - 7♣︎ K♣︎ 5♢ 8♢ 9♢ A♢ 6♡ K♡ 3♠︎ 4♠︎ 6♠︎ 6♠︎ 8♠︎ 9♠︎ J♠︎ Q♠︎
+   Round 18: Player 6 - 3♣︎ 4♣︎ 5♣︎ 7♣︎ 8♣︎ Q♣︎ 2♢ 6♢ 9♢ 2♡ 2♡ 7♡ 8♡ 10♡ 4♠︎ 8♠︎
+   Round 18: KITTY - J♣︎ K♣︎ J♢ A♢ 5♡ A♡ 5♠︎ K♠︎
+
+   Round 19: Player 1 - 2♣︎ 10♣︎ J♣︎ K♣︎ A♣︎ 4♢ 7♢ J♢ K♢ A♢ 8♡ 10♡ 7♠︎ 8♠︎ 9♠︎ J♠︎
+   Round 19: Player 2 - 4♣︎ 5♣︎ 7♣︎ 9♣︎ A♣︎ 6♢ 8♢ 8♢ 9♢ 10♢ Q♢ 4♡ 6♡ 7♡ 2♠︎ Q♠︎
+   Round 19: Player 3 - 5♣︎ 9♣︎ Q♣︎ 3♢ 10♢ 3♡ 5♡ 8♡ 9♡ 10♡ J♡ Q♡ A♡ 2♠︎ 7♠︎ A♠︎
+   Round 19: Player 4 - 3♣︎ 4♣︎ 8♣︎ Q♣︎ 4♢ J♢ Q♢ 2♡ 2♡ 4♡ 7♡ A♡ 6♠︎ 6♠︎ Q♠︎ K♠︎
+   Round 19: Player 5 - 3♣︎ 6♣︎ 8♣︎ K♣︎ 2♢ 2♢ 5♢ K♢ 9♡ Q♡ 3♠︎ 3♠︎ 4♠︎ 5♠︎ K♠︎ A♠︎
+   Round 19: Player 6 - 2♣︎ 7♣︎ 10♣︎ J♣︎ 3♢ 7♢ A♢ 3♡ 5♡ J♡ K♡ 4♠︎ 5♠︎ 10♠︎ 10♠︎ J♠︎
+   Round 19: KITTY - 6♣︎ 5♢ 6♢ 9♢ 6♡ K♡ 8♠︎ 9♠︎
+
+   Round 20: Player 1 - 3♣︎ 7♣︎ K♣︎ A♣︎ 4♢ 8♢ 10♢ 2♡ 10♡ Q♡ 3♠︎ 4♠︎ 5♠︎ 5♠︎ J♠︎ K♠︎
+   Round 20: Player 2 - 3♣︎ 6♣︎ 9♣︎ J♣︎ Q♣︎ 3♢ 8♢ K♢ 3♡ 7♡ 8♡ Q♡ 6♠︎ 6♠︎ Q♠︎ K♠︎
+   Round 20: Player 3 - 2♣︎ 4♣︎ 5♣︎ 8♣︎ 10♣︎ 5♢ 10♢ J♢ J♢ K♢ 4♡ 9♡ A♡ 3♠︎ 9♠︎ A♠︎
+   Round 20: Player 4 - 7♣︎ 9♣︎ 10♣︎ J♣︎ K♣︎ 2♢ 6♢ 3♡ 4♡ 6♡ 7♡ 8♡ K♡ 2♠︎ 7♠︎ 8♠︎
+   Round 20: Player 5 - 2♣︎ 5♣︎ Q♣︎ A♣︎ 2♢ 4♢ 7♢ Q♢ A♢ 5♡ 5♡ 6♡ 9♡ K♡ 4♠︎ J♠︎
+   Round 20: Player 6 - 8♣︎ 3♢ 5♢ 6♢ 9♢ Q♢ A♢ 2♡ 10♡ J♡ J♡ A♡ 2♠︎ 8♠︎ 10♠︎ Q♠︎
+   Round 20: KITTY - 4♣︎ 6♣︎ 7♢ 9♢ 7♠︎ 9♠︎ 10♠︎ A♠︎
+
+Player Count: 8
+
+   Round 1: Player 1 - 2♣︎ K♣︎ A♣︎ 5♢ 7♢ 10♢ J♢ Q♢ K♢ A♢ 2♠︎ 7♠︎
+   Round 1: Player 2 - 8♣︎ 10♣︎ K♣︎ 2♡ 7♡ 8♡ 8♡ A♡ A♡ 7♠︎ Q♠︎ K♠︎
+   Round 1: Player 3 - 4♣︎ 5♣︎ 7♣︎ 9♣︎ 6♢ 8♢ J♢ Q♢ 10♡ 5♠︎ 9♠︎ 10♠︎
+   Round 1: Player 4 - 6♢ 10♢ A♢ 2♡ 6♡ 6♡ 9♡ J♡ K♡ K♡ 2♠︎ 4♠︎
+   Round 1: Player 5 - 3♣︎ 3♣︎ 7♣︎ 8♣︎ 3♢ 4♢ 9♢ 7♡ 10♡ J♠︎ Q♠︎ A♠︎
+   Round 1: Player 6 - 6♣︎ Q♣︎ Q♣︎ A♣︎ 2♢ 3♢ 4♡ 5♡ Q♡ 3♠︎ 6♠︎ K♠︎
+   Round 1: Player 7 - 2♣︎ 4♣︎ 10♣︎ J♣︎ 2♢ 8♢ K♢ J♡ 4♠︎ 5♠︎ 6♠︎ 9♠︎
+   Round 1: Player 8 - 5♣︎ 6♣︎ 9♣︎ J♣︎ 4♢ 7♢ 9♢ 3♡ 4♡ 5♡ 8♠︎ 8♠︎
+   Round 1: KITTY - 5♢ 3♡ 9♡ Q♡ 3♠︎ 10♠︎ J♠︎ A♠︎
+
+   Round 2: Player 1 - 2♣︎ Q♣︎ 3♢ 6♢ 9♢ 10♢ K♢ 7♡ A♡ 8♠︎ Q♠︎ Q♠︎
+   Round 2: Player 2 - 3♣︎ 4♢ 8♢ A♢ 2♡ 5♡ 8♡ 9♡ 2♠︎ J♠︎ K♠︎ A♠︎
+   Round 2: Player 3 - 5♣︎ 8♣︎ J♣︎ Q♢ 3♡ 4♡ 6♡ J♡ J♡ A♡ 2♠︎ K♠︎
+   Round 2: Player 4 - 2♣︎ 4♣︎ 7♣︎ 9♣︎ 3♢ 7♢ J♢ 9♡ Q♡ K♡ 6♠︎ J♠︎
+   Round 2: Player 5 - 3♣︎ 6♣︎ A♣︎ A♣︎ 5♢ Q♢ 4♡ 7♡ 4♠︎ 7♠︎ 9♠︎ 10♠︎
+   Round 2: Player 6 - 4♣︎ 10♣︎ Q♣︎ 2♢ 2♢ 8♢ J♢ 8♡ 10♡ 3♠︎ 6♠︎ 10♠︎
+   Round 2: Player 7 - 5♣︎ 7♣︎ 8♣︎ 9♣︎ 10♣︎ K♣︎ 4♢ 6♢ 5♡ 6♡ 7♠︎ 8♠︎
+   Round 2: Player 8 - 6♣︎ 7♢ 10♢ K♢ A♢ 2♡ 3♡ 10♡ 3♠︎ 4♠︎ 5♠︎ A♠︎
+   Round 2: KITTY - J♣︎ K♣︎ 5♢ 9♢ Q♡ K♡ 5♠︎ 9♠︎
+
+   Round 3: Player 1 - A♣︎ 4♢ 8♢ 10♢ 2♡ 6♡ 8♡ Q♡ K♡ 2♠︎ 5♠︎ 8♠︎
+   Round 3: Player 2 - 9♣︎ 10♣︎ 4♢ 10♢ Q♢ A♢ 3♡ 9♡ 3♠︎ 6♠︎ 6♠︎ J♠︎
+   Round 3: Player 3 - 2♣︎ 2♣︎ 3♣︎ Q♣︎ 3♢ 6♢ 9♢ 6♡ 10♡ 4♠︎ J♠︎ A♠︎
+   Round 3: Player 4 - 4♣︎ 7♣︎ J♣︎ Q♣︎ K♣︎ J♢ 2♡ 3♡ 5♡ A♡ 10♠︎ Q♠︎
+   Round 3: Player 5 - 3♣︎ 8♣︎ 10♣︎ 3♢ 7♢ K♢ 4♡ 5♡ 10♡ J♡ 9♠︎ K♠︎
+   Round 3: Player 6 - 4♣︎ 5♢ 7♢ J♢ K♢ 7♡ 7♡ 8♡ 9♡ 2♠︎ 4♠︎ Q♠︎
+   Round 3: Player 7 - 5♣︎ 8♣︎ K♣︎ A♣︎ 2♢ 6♢ 9♢ A♢ 3♠︎ 7♠︎ 8♠︎ 10♠︎
+   Round 3: Player 8 - 6♣︎ 9♣︎ J♣︎ 2♢ 5♢ 8♢ 4♡ Q♡ K♡ 5♠︎ 7♠︎ 9♠︎
+   Round 3: KITTY - 5♣︎ 6♣︎ 7♣︎ Q♢ J♡ A♡ K♠︎ A♠︎
+
+   Round 4: Player 1 - A♣︎ 3♢ 7♢ 8♢ Q♢ A♢ 5♡ 6♡ A♡ 3♠︎ 8♠︎ 9♠︎
+   Round 4: Player 2 - 2♣︎ 9♣︎ 10♣︎ K♣︎ 3♡ 9♡ 2♠︎ 5♠︎ 5♠︎ 7♠︎ 8♠︎ 10♠︎
+   Round 4: Player 3 - 2♣︎ 9♣︎ Q♣︎ 4♢ 8♢ 9♢ Q♢ 5♡ 6♠︎ J♠︎ Q♠︎ A♠︎
+   Round 4: Player 4 - 7♣︎ 10♣︎ J♣︎ 6♢ A♢ 4♡ 6♡ J♡ Q♡ 3♠︎ J♠︎ K♠︎
+   Round 4: Player 5 - 3♣︎ 4♣︎ 6♣︎ A♣︎ 4♢ J♢ 2♡ 8♡ 10♡ J♡ 2♠︎ 10♠︎
+   Round 4: Player 6 - 6♣︎ 7♣︎ 2♢ 9♢ 10♢ J♢ 7♡ 7♡ 9♡ K♡ 4♠︎ A♠︎
+   Round 4: Player 7 - 5♣︎ K♣︎ 2♢ 6♢ 10♢ K♢ 3♡ 8♡ K♡ 4♠︎ 7♠︎ Q♠︎
+   Round 4: Player 8 - 3♣︎ 5♣︎ 8♣︎ J♣︎ Q♣︎ 5♢ 5♢ 7♢ 10♡ Q♡ A♡ K♠︎
+   Round 4: KITTY - 4♣︎ 8♣︎ 3♢ K♢ 2♡ 4♡ 6♠︎ 9♠︎
+
+   Round 5: Player 1 - 4♣︎ 6♣︎ 10♣︎ 8♢ 8♢ J♢ K♢ 2♡ 5♠︎ 9♠︎ 9♠︎ J♠︎
+   Round 5: Player 2 - 5♣︎ 5♣︎ 7♣︎ 2♢ 4♢ 7♢ 10♢ 9♡ 6♠︎ 10♠︎ Q♠︎ A♠︎
+   Round 5: Player 3 - 6♣︎ 9♣︎ K♣︎ A♣︎ 5♢ 10♢ 8♡ 8♡ 10♡ J♡ 2♠︎ 5♠︎
+   Round 5: Player 4 - 2♣︎ 10♣︎ Q♢ K♢ A♢ 4♡ 7♡ J♡ Q♡ 3♠︎ 8♠︎ A♠︎
+   Round 5: Player 5 - 3♣︎ 8♣︎ K♣︎ 3♢ 5♡ 9♡ A♡ 4♠︎ 7♠︎ 7♠︎ J♠︎ K♠︎
+   Round 5: Player 6 - 2♣︎ J♣︎ Q♣︎ 4♢ 5♢ Q♢ A♢ 3♡ 4♠︎ 6♠︎ 8♠︎ 10♠︎
+   Round 5: Player 7 - 7♣︎ 6♢ 6♢ 9♢ J♢ 2♡ 3♡ 7♡ Q♡ K♡ 2♠︎ 3♠︎
+   Round 5: Player 8 - 3♣︎ 4♣︎ 8♣︎ J♣︎ Q♣︎ A♣︎ 3♢ 7♢ 9♢ 6♡ A♡ K♠︎
+   Round 5: KITTY - 9♣︎ 2♢ 4♡ 5♡ 6♡ 10♡ K♡ Q♠︎
+
+   Round 6: Player 1 - 3♣︎ 4♣︎ 5♣︎ 6♣︎ 7♣︎ 10♣︎ J♢ K♢ 8♡ J♡ 9♠︎ Q♠︎
+   Round 6: Player 2 - 8♣︎ K♣︎ 3♢ 7♢ 9♢ J♢ 5♡ 6♡ 7♡ Q♡ K♡ A♡
+   Round 6: Player 3 - 9♣︎ 2♢ 4♢ 6♢ 6♢ 7♢ 8♡ 2♠︎ 7♠︎ 9♠︎ J♠︎ K♠︎
+   Round 6: Player 4 - 4♣︎ J♣︎ 8♢ 10♢ A♢ 3♡ 4♡ 5♠︎ 6♠︎ 10♠︎ Q♠︎ A♠︎
+   Round 6: Player 5 - 2♣︎ 5♣︎ A♣︎ Q♢ A♢ 4♡ 9♡ 10♡ J♡ K♡ 7♠︎ 8♠︎
+   Round 6: Player 6 - 7♣︎ Q♣︎ A♣︎ 3♢ 4♢ 5♢ 10♢ K♢ 2♡ 9♡ 4♠︎ 6♠︎
+   Round 6: Player 7 - 2♣︎ 3♣︎ 6♣︎ 2♢ 5♢ Q♢ 7♡ A♡ 2♠︎ 3♠︎ 5♠︎ 10♠︎
+   Round 6: Player 8 - 8♣︎ 9♣︎ J♣︎ Q♣︎ 8♢ 2♡ 5♡ 6♡ 3♠︎ J♠︎ K♠︎ A♠︎
+   Round 6: KITTY - 10♣︎ K♣︎ 9♢ 3♡ 10♡ Q♡ 4♠︎ 8♠︎
+
+   Round 7: Player 1 - 3♣︎ 9♣︎ A♣︎ 2♢ 7♢ 2♡ 2♡ 4♡ 9♡ Q♡ 2♠︎ 5♠︎
+   Round 7: Player 2 - 4♣︎ 5♣︎ 10♣︎ 10♢ J♢ K♢ 10♡ A♡ 2♠︎ 3♠︎ A♠︎ A♠︎
+   Round 7: Player 3 - 2♣︎ 2♣︎ 6♣︎ K♣︎ A♣︎ 2♢ 8♡ 8♠︎ 9♠︎ 10♠︎ Q♠︎ K♠︎
+   Round 7: Player 4 - 3♢ 5♢ 6♢ 8♢ 8♢ 6♡ 8♡ K♡ 6♠︎ 9♠︎ J♠︎ Q♠︎
+   Round 7: Player 5 - 4♣︎ 5♣︎ 8♣︎ 9♣︎ 7♢ Q♢ K♢ A♢ 6♡ 7♡ 4♠︎ 5♠︎
+   Round 7: Player 6 - 7♣︎ 10♣︎ Q♣︎ 4♢ 9♢ 5♡ 10♡ J♡ J♡ 4♠︎ 10♠︎ J♠︎
+   Round 7: Player 7 - 7♣︎ J♣︎ J♣︎ 5♢ J♢ 4♡ 5♡ 7♡ Q♡ K♡ A♡ 7♠︎
+   Round 7: Player 8 - Q♣︎ K♣︎ 3♢ 4♢ 10♢ Q♢ 3♡ 3♡ 9♡ 6♠︎ 8♠︎ K♠︎
+   Round 7: KITTY - 3♣︎ 6♣︎ 8♣︎ 6♢ 9♢ A♢ 3♠︎ 7♠︎
+
+   Round 8: Player 1 - 5♣︎ 8♣︎ 10♣︎ 3♢ Q♢ Q♢ 3♡ 8♡ 10♡ Q♡ A♡ 10♠︎
+   Round 8: Player 2 - 3♣︎ 6♣︎ 9♣︎ J♣︎ K♣︎ 6♢ A♢ 4♡ 7♡ K♡ 10♠︎ Q♠︎
+   Round 8: Player 3 - 3♣︎ 10♣︎ 3♢ 7♢ 8♢ 10♢ 5♡ J♡ 5♠︎ 9♠︎ Q♠︎ A♠︎
+   Round 8: Player 4 - 4♣︎ K♣︎ 5♢ 9♢ 10♢ 3♡ 8♡ K♡ 3♠︎ 5♠︎ 8♠︎ A♠︎
+   Round 8: Player 5 - 7♣︎ Q♣︎ A♣︎ 6♢ 8♢ 9♢ J♢ 2♡ 5♡ 6♡ 2♠︎ 3♠︎
+   Round 8: Player 6 - J♣︎ Q♣︎ 2♢ 2♢ K♢ 6♡ 10♡ J♡ Q♡ A♡ 2♠︎ 7♠︎
+   Round 8: Player 7 - 6♣︎ 9♣︎ A♣︎ 4♢ J♢ A♢ 2♡ 9♡ 9♡ 4♠︎ 6♠︎ 7♠︎
+   Round 8: Player 8 - 2♣︎ 4♣︎ 5♣︎ 8♣︎ 4♢ 5♢ K♢ 7♡ 8♠︎ 9♠︎ K♠︎ K♠︎
+   Round 8: KITTY - 2♣︎ 7♣︎ 7♢ 4♡ 4♠︎ 6♠︎ J♠︎ J♠︎
+
+   Round 9: Player 1 - 4♣︎ K♣︎ 2♢ 4♢ 5♢ 9♢ 2♡ 3♡ 8♡ A♡ 7♠︎ J♠︎
+   Round 9: Player 2 - 2♣︎ 9♣︎ 10♣︎ Q♣︎ A♣︎ 6♢ 6♡ K♡ 6♠︎ 10♠︎ 10♠︎ A♠︎
+   Round 9: Player 3 - 6♣︎ 9♣︎ 6♢ 8♢ 10♢ A♢ 2♡ 4♡ 9♡ 9♠︎ Q♠︎ K♠︎
+   Round 9: Player 4 - 5♣︎ 7♣︎ 10♣︎ 8♢ A♢ 3♡ 8♡ Q♡ 8♠︎ 9♠︎ J♠︎ A♠︎
+   Round 9: Player 5 - K♣︎ A♣︎ 2♢ 3♢ 5♢ Q♢ 7♡ 9♡ K♡ 2♠︎ 5♠︎ 6♠︎
+   Round 9: Player 6 - 3♣︎ 7♣︎ Q♣︎ 9♢ Q♢ 5♡ 6♡ 7♡ J♡ 2♠︎ 5♠︎ 7♠︎
+   Round 9: Player 7 - 2♣︎ 3♣︎ 4♣︎ 5♣︎ 8♣︎ J♣︎ 4♢ 7♢ 10♢ K♢ A♡ 3♠︎
+   Round 9: Player 8 - 6♣︎ 3♢ 7♢ J♢ K♢ 4♡ 5♡ Q♡ 3♠︎ 4♠︎ 8♠︎ Q♠︎
+   Round 9: KITTY - 8♣︎ J♣︎ J♢ 10♡ 10♡ J♡ 4♠︎ K♠︎
+
+   Round 10: Player 1 - 3♣︎ 9♣︎ A♣︎ 3♢ 6♢ 7♢ 10♢ 2♡ 4♠︎ 4♠︎ 10♠︎ J♠︎
+   Round 10: Player 2 - 10♣︎ Q♢ 6♡ 7♡ 8♡ 10♡ J♡ A♡ 9♠︎ 10♠︎ K♠︎ K♠︎
+   Round 10: Player 3 - 7♣︎ J♣︎ K♣︎ 2♢ K♢ 3♡ 6♡ 9♡ 10♡ 7♠︎ Q♠︎ A♠︎
+   Round 10: Player 4 - 3♣︎ 4♣︎ 5♣︎ 6♣︎ 8♣︎ Q♣︎ A♢ 4♡ 7♡ 3♠︎ 6♠︎ 8♠︎
+   Round 10: Player 5 - 4♣︎ J♣︎ 5♢ 8♢ K♢ 4♡ 5♡ 5♡ K♡ A♡ Q♠︎ A♠︎
+   Round 10: Player 6 - 5♣︎ 4♢ 6♢ 9♢ 9♢ J♢ J♢ 3♡ K♡ 2♠︎ 3♠︎ 7♠︎
+   Round 10: Player 7 - 9♣︎ 10♣︎ Q♣︎ 2♢ 5♢ 2♡ J♡ Q♡ 2♠︎ 5♠︎ 8♠︎ J♠︎
+   Round 10: Player 8 - 2♣︎ 8♣︎ K♣︎ A♣︎ 3♢ 4♢ 7♢ 8♢ Q♢ 8♡ 5♠︎ 6♠︎
+   Round 10: KITTY - 2♣︎ 6♣︎ 7♣︎ 10♢ A♢ 9♡ Q♡ 9♠︎
+
+   Round 11: Player 1 - 3♣︎ 6♣︎ 9♣︎ 8♢ K♢ 5♡ Q♡ K♡ 2♠︎ 9♠︎ J♠︎ A♠︎
+   Round 11: Player 2 - 4♣︎ 6♣︎ 9♣︎ Q♣︎ K♣︎ A♣︎ 3♢ 4♢ 10♢ J♢ 10♡ J♡
+   Round 11: Player 3 - 3♣︎ 5♣︎ 7♣︎ 7♢ Q♢ 6♡ 4♠︎ 5♠︎ 6♠︎ 8♠︎ 8♠︎ K♠︎
+   Round 11: Player 4 - 4♣︎ 10♣︎ K♣︎ 3♢ K♢ 7♡ 9♡ 10♡ Q♡ K♡ 10♠︎ A♠︎
+   Round 11: Player 5 - 8♣︎ 4♢ 7♢ 9♢ A♢ 2♡ 5♡ 6♡ 2♠︎ 3♠︎ 10♠︎ J♠︎
+   Round 11: Player 6 - 2♣︎ Q♣︎ 5♢ 5♢ 6♢ 4♡ 8♡ 4♠︎ 6♠︎ 7♠︎ 7♠︎ 9♠︎
+   Round 11: Player 7 - 8♣︎ J♣︎ J♣︎ A♣︎ 10♢ Q♢ A♢ 2♡ 7♡ A♡ Q♠︎ K♠︎
+   Round 11: Player 8 - 2♣︎ 10♣︎ 2♢ 2♢ 6♢ 9♢ J♢ 3♡ 3♡ 8♡ 9♡ 3♠︎
+   Round 11: KITTY - 5♣︎ 7♣︎ 8♢ 4♡ J♡ A♡ 5♠︎ Q♠︎
+
+   Round 12: Player 1 - 3♣︎ 6♣︎ 8♣︎ 6♢ 10♢ 2♡ 6♡ 6♡ J♡ A♡ A♡ Q♠︎
+   Round 12: Player 2 - 2♣︎ 3♣︎ 5♣︎ 7♣︎ 8♣︎ A♣︎ A♢ 4♡ 2♠︎ 5♠︎ 5♠︎ J♠︎
+   Round 12: Player 3 - J♣︎ K♢ 3♡ 4♡ 5♡ 7♡ Q♡ K♡ 8♠︎ 8♠︎ Q♠︎ A♠︎
+   Round 12: Player 4 - 4♣︎ 5♣︎ K♣︎ 2♢ 7♢ J♢ Q♢ K♢ 9♡ 10♡ 7♠︎ 10♠︎
+   Round 12: Player 5 - 4♣︎ 6♣︎ Q♣︎ 3♢ 3♢ 4♢ 9♢ 10♢ 8♡ 2♠︎ 6♠︎ 9♠︎
+   Round 12: Player 6 - 7♣︎ 4♢ 8♢ 8♢ J♢ A♢ 10♡ 7♠︎ J♠︎ K♠︎ K♠︎ A♠︎
+   Round 12: Player 7 - 2♣︎ 9♣︎ 10♣︎ Q♣︎ 2♢ 5♢ 6♢ 5♡ 8♡ 4♠︎ 6♠︎ 9♠︎
+   Round 12: Player 8 - 10♣︎ J♣︎ K♣︎ 5♢ 3♡ 7♡ 9♡ J♡ 3♠︎ 3♠︎ 4♠︎ 10♠︎
+   Round 12: KITTY - 9♣︎ A♣︎ 7♢ 9♢ Q♢ 2♡ Q♡ K♡
+
+   Round 13: Player 1 - 9♣︎ Q♣︎ 5♢ 6♢ 8♢ 9♢ 10♢ Q♢ 8♡ K♡ 3♠︎ 10♠︎
+   Round 13: Player 2 - 3♣︎ 9♣︎ J♣︎ Q♣︎ K♣︎ 7♢ K♢ A♢ 9♡ 4♠︎ 5♠︎ K♠︎
+   Round 13: Player 3 - 7♣︎ 10♣︎ K♣︎ A♣︎ 10♢ 2♡ 4♡ 4♠︎ 5♠︎ 9♠︎ J♠︎ Q♠︎
+   Round 13: Player 4 - 2♣︎ 7♣︎ 3♢ 4♢ 3♡ 4♡ 7♡ A♡ 2♠︎ 10♠︎ Q♠︎ K♠︎
+   Round 13: Player 5 - 6♣︎ 3♢ 5♢ J♢ 3♡ 5♡ 6♡ 10♡ Q♡ A♡ 2♠︎ A♠︎
+   Round 13: Player 6 - 5♣︎ J♣︎ 7♢ 8♢ 9♢ 2♡ 5♡ 7♡ Q♡ 3♠︎ 8♠︎ 8♠︎
+   Round 13: Player 7 - 2♣︎ 3♣︎ 6♣︎ 2♢ 2♢ A♢ 6♡ 9♡ 10♡ J♡ 6♠︎ 7♠︎
+   Round 13: Player 8 - 4♣︎ 4♣︎ 8♣︎ 10♣︎ A♣︎ Q♢ K♢ 8♡ J♡ K♡ 6♠︎ 9♠︎
+   Round 13: KITTY - 5♣︎ 8♣︎ 4♢ 6♢ J♢ 7♠︎ J♠︎ A♠︎
+
+   Round 14: Player 1 - 9♣︎ Q♣︎ 3♢ 5♢ 8♢ J♢ J♢ 5♡ 4♠︎ 6♠︎ 6♠︎ 9♠︎
+   Round 14: Player 2 - 7♣︎ 10♣︎ J♣︎ 4♢ 9♢ 10♢ 4♡ 7♡ 2♠︎ 3♠︎ J♠︎ Q♠︎
+   Round 14: Player 3 - 5♣︎ 6♣︎ 8♣︎ 2♢ 4♢ 7♢ 9♢ 2♡ K♡ 8♠︎ J♠︎ A♠︎
+   Round 14: Player 4 - J♣︎ 7♢ Q♢ A♢ 3♡ 4♡ 5♡ 9♡ 10♡ J♡ 9♠︎ 10♠︎
+   Round 14: Player 5 - 3♣︎ 4♣︎ 5♣︎ 6♣︎ 8♣︎ K♣︎ 5♢ 6♢ 2♡ 6♡ 7♠︎ 10♠︎
+   Round 14: Player 6 - 3♣︎ 4♣︎ A♣︎ Q♢ A♢ 8♡ 8♡ A♡ 3♠︎ 7♠︎ 8♠︎ K♠︎
+   Round 14: Player 7 - 2♣︎ 2♣︎ 9♣︎ 10♣︎ Q♣︎ 2♢ 3♢ K♢ 3♡ Q♡ 5♠︎ Q♠︎
+   Round 14: Player 8 - A♣︎ 6♢ 8♢ 10♢ 7♡ 10♡ J♡ Q♡ K♡ A♡ 2♠︎ 5♠︎
+   Round 14: KITTY - 7♣︎ K♣︎ K♢ 6♡ 9♡ 4♠︎ K♠︎ A♠︎
+
+   Round 15: Player 1 - 6♣︎ 7♣︎ 8♣︎ 8♣︎ 10♣︎ 4♢ 8♢ 4♡ 10♡ 10♡ 5♠︎ 7♠︎
+   Round 15: Player 2 - 2♣︎ 9♣︎ K♣︎ 3♢ 4♢ 6♢ 6♢ 9♢ 9♢ 6♡ 8♡ J♠︎
+   Round 15: Player 3 - 2♣︎ 5♣︎ 3♢ 5♢ 7♢ 7♡ Q♡ A♡ 3♠︎ Q♠︎ K♠︎ K♠︎
+   Round 15: Player 4 - 4♣︎ 10♢ A♢ 2♡ 3♡ 4♡ 9♡ Q♡ 2♠︎ 2♠︎ 8♠︎ 10♠︎
+   Round 15: Player 5 - 5♣︎ 6♣︎ J♣︎ K♣︎ 10♢ Q♢ 6♡ 9♡ J♡ 4♠︎ 6♠︎ 10♠︎
+   Round 15: Player 6 - J♣︎ Q♣︎ A♣︎ 8♢ K♢ 2♡ 3♡ 5♡ J♡ K♡ 4♠︎ Q♠︎
+   Round 15: Player 7 - 3♣︎ 4♣︎ 7♣︎ 9♣︎ 10♣︎ 2♢ J♢ J♢ A♡ 7♠︎ 9♠︎ A♠︎
+   Round 15: Player 8 - A♣︎ 2♢ 5♢ Q♢ A♢ 5♡ 8♡ K♡ 3♠︎ 9♠︎ J♠︎ A♠︎
+   Round 15: KITTY - 3♣︎ Q♣︎ 7♢ K♢ 7♡ 5♠︎ 6♠︎ 8♠︎
+
+   Round 16: Player 1 - 2♣︎ 5♣︎ 6♣︎ 9♣︎ J♣︎ Q♣︎ A♣︎ Q♢ 4♡ K♡ Q♠︎ A♠︎
+   Round 16: Player 2 - 6♣︎ 7♣︎ 10♣︎ J♣︎ 3♢ 3♢ 5♢ 5♢ 8♢ 7♠︎ 7♠︎ J♠︎
+   Round 16: Player 3 - 4♣︎ 8♣︎ 7♢ 7♢ 10♢ K♢ 2♡ 10♡ J♡ K♡ 4♠︎ 6♠︎
+   Round 16: Player 4 - 2♣︎ 8♣︎ 6♢ 6♢ K♢ A♢ A♢ 4♡ 7♡ 7♡ 2♠︎ 10♠︎
+   Round 16: Player 5 - 4♣︎ 10♣︎ Q♣︎ 2♢ J♢ 3♡ 10♡ 5♠︎ 6♠︎ 9♠︎ 9♠︎ J♠︎
+   Round 16: Player 6 - 3♣︎ 9♢ J♢ Q♢ 6♡ 8♡ 2♠︎ 3♠︎ 8♠︎ 10♠︎ Q♠︎ A♠︎
+   Round 16: Player 7 - 3♣︎ 9♣︎ 8♢ 10♢ 5♡ 6♡ J♡ Q♡ A♡ A♡ 4♠︎ 5♠︎
+   Round 16: Player 8 - K♣︎ A♣︎ 2♢ 4♢ 2♡ 8♡ 9♡ 9♡ Q♡ 3♠︎ 8♠︎ K♠︎
+   Round 16: KITTY - 5♣︎ 7♣︎ K♣︎ 4♢ 9♢ 3♡ 5♡ K♠︎
+
+   Round 17: Player 1 - 3♣︎ 6♣︎ 8♣︎ 9♣︎ J♣︎ 4♢ 10♢ J♢ Q♢ 5♡ 5♠︎ 8♠︎
+   Round 17: Player 2 - 5♣︎ 9♣︎ 10♣︎ Q♣︎ 3♢ 6♢ 7♢ 5♡ 9♡ J♡ J♡ K♡
+   Round 17: Player 3 - 8♣︎ A♣︎ 4♢ J♢ A♢ 8♡ 10♡ 2♠︎ 10♠︎ 10♠︎ J♠︎ K♠︎
+   Round 17: Player 4 - 6♣︎ 7♣︎ K♣︎ 7♢ 9♢ 4♡ 6♡ 10♡ Q♡ 6♠︎ 9♠︎ Q♠︎
+   Round 17: Player 5 - 5♣︎ 2♢ 8♢ Q♢ 6♡ 7♡ A♡ 3♠︎ 4♠︎ 9♠︎ J♠︎ A♠︎
+   Round 17: Player 6 - 2♣︎ 3♣︎ K♣︎ 2♢ 3♢ 5♢ K♢ A♢ 7♡ 2♠︎ 6♠︎ A♠︎
+   Round 17: Player 7 - 4♣︎ 4♣︎ 10♣︎ Q♣︎ 2♡ 3♡ A♡ 3♠︎ 5♠︎ 7♠︎ 7♠︎ 8♠︎
+   Round 17: Player 8 - 2♣︎ 7♣︎ J♣︎ A♣︎ 10♢ K♢ 2♡ 4♡ 8♡ Q♡ 4♠︎ K♠︎
+   Round 17: KITTY - 5♢ 6♢ 8♢ 9♢ 3♡ 9♡ K♡ Q♠︎
+
+   Round 18: Player 1 - 5♣︎ 8♣︎ 10♣︎ J♣︎ A♣︎ 3♢ 8♢ 8♢ 7♡ J♡ 4♠︎ K♠︎
+   Round 18: Player 2 - 10♣︎ Q♣︎ 7♢ 9♢ J♢ 2♡ 10♡ 2♠︎ 3♠︎ 4♠︎ 9♠︎ Q♠︎
+   Round 18: Player 3 - 8♣︎ A♣︎ 4♢ Q♢ A♢ 3♡ J♡ K♡ 3♠︎ 8♠︎ J♠︎ A♠︎
+   Round 18: Player 4 - 2♣︎ 4♣︎ K♣︎ 5♢ 6♢ 9♢ 10♢ 3♡ 8♡ 10♡ 6♠︎ 7♠︎
+   Round 18: Player 5 - 2♣︎ 3♣︎ 6♣︎ 7♣︎ 7♣︎ K♣︎ 6♢ K♢ 6♡ 9♡ K♡ A♡
+   Round 18: Player 6 - 3♣︎ 6♣︎ J♢ Q♢ 2♡ 4♡ 9♡ Q♡ 7♠︎ 8♠︎ J♠︎ K♠︎
+   Round 18: Player 7 - 9♣︎ Q♣︎ 7♢ K♢ 7♡ A♡ 2♠︎ 5♠︎ 5♠︎ 6♠︎ 9♠︎ A♠︎
+   Round 18: Player 8 - 4♣︎ 5♣︎ 9♣︎ J♣︎ 2♢ 2♢ 3♢ A♢ 4♡ 5♡ 10♠︎ Q♠︎
+   Round 18: KITTY - 4♢ 5♢ 10♢ 5♡ 6♡ 8♡ Q♡ 10♠︎
+
+   Round 19: Player 1 - 3♣︎ 10♣︎ A♣︎ 2♢ 6♢ 6♢ 10♢ Q♢ K♢ 9♡ A♡ 3♠︎
+   Round 19: Player 2 - 7♣︎ 7♢ 8♢ 9♢ K♢ 2♡ 7♡ 2♠︎ 6♠︎ 7♠︎ 8♠︎ Q♠︎
+   Round 19: Player 3 - 5♣︎ K♣︎ K♣︎ 2♢ 3♢ 4♢ 4♡ 5♡ 8♡ 5♠︎ Q♠︎ K♠︎
+   Round 19: Player 4 - 6♣︎ 7♣︎ 8♣︎ J♣︎ Q♢ 5♡ 7♡ J♡ Q♡ K♡ 4♠︎ K♠︎
+   Round 19: Player 5 - 2♣︎ 6♣︎ 10♣︎ 3♡ 4♡ 6♡ 10♡ 10♡ J♡ 4♠︎ 6♠︎ 9♠︎
+   Round 19: Player 6 - 8♣︎ J♣︎ Q♣︎ 3♢ 5♢ 5♢ 9♢ 10♢ J♢ 8♠︎ J♠︎ A♠︎
+   Round 19: Player 7 - 3♣︎ 4♣︎ 5♣︎ 9♣︎ 4♢ 7♢ A♢ A♢ 2♡ 9♡ A♡ 10♠︎
+   Round 19: Player 8 - 2♣︎ 9♣︎ A♣︎ J♢ 3♡ 6♡ 2♠︎ 3♠︎ 5♠︎ 7♠︎ 9♠︎ 10♠︎
+   Round 19: KITTY - 4♣︎ Q♣︎ 8♢ 8♡ Q♡ K♡ J♠︎ A♠︎
+
+   Round 20: Player 1 - 3♣︎ 5♣︎ 7♣︎ 9♣︎ 10♢ J♢ 2♡ 3♡ 5♡ A♡ 4♠︎ 6♠︎
+   Round 20: Player 2 - 5♣︎ 8♣︎ 8♣︎ 3♢ 4♢ 6♢ 10♢ K♢ 3♡ 4♡ 9♡ J♠︎
+   Round 20: Player 3 - 10♣︎ 5♢ 6♢ Q♢ 5♡ 8♡ A♡ 8♠︎ J♠︎ Q♠︎ K♠︎ A♠︎
+   Round 20: Player 4 - 6♣︎ J♣︎ Q♣︎ 7♢ K♢ 7♡ Q♡ 3♠︎ 5♠︎ 7♠︎ 10♠︎ 10♠︎
+   Round 20: Player 5 - 4♣︎ 7♣︎ J♣︎ K♣︎ 2♢ A♢ 8♡ 10♡ J♡ 6♠︎ 9♠︎ Q♠︎
+   Round 20: Player 6 - 2♣︎ 2♣︎ 9♣︎ 3♢ 7♢ 9♢ 9♢ A♢ 6♡ Q♡ K♡ 3♠︎
+   Round 20: Player 7 - 4♣︎ Q♣︎ K♣︎ A♣︎ 4♢ Q♢ 4♡ 4♠︎ 5♠︎ 7♠︎ K♠︎ A♠︎
+   Round 20: Player 8 - 3♣︎ A♣︎ 2♢ 5♢ 8♢ 8♢ 7♡ 9♡ J♡ K♡ 2♠︎ 8♠︎
+   Round 20: KITTY - 6♣︎ 10♣︎ J♢ 2♡ 6♡ 10♡ 2♠︎ 9♠︎
+
+Player Count: 10
+
+   Round 1: Player 1 - 8♣︎ 9♣︎ J♣︎ K♣︎ 3♢ J♢ Q♢ 6♡ 8♡ 7♠︎
+   Round 1: Player 2 - 2♣︎ 3♣︎ A♣︎ 10♢ 2♡ 5♡ K♡ 3♠︎ 4♠︎ K♠︎
+   Round 1: Player 3 - 5♣︎ 6♢ 7♢ J♢ 3♡ 4♡ 4♡ J♡ 10♠︎ J♠︎
+   Round 1: Player 4 - 3♣︎ 7♢ 5♡ 6♡ 8♡ 9♡ 9♡ K♡ A♡ 3♠︎
+   Round 1: Player 5 - 4♣︎ Q♣︎ 5♢ 8♢ 9♢ Q♡ A♡ 4♠︎ 8♠︎ J♠︎
+   Round 1: Player 6 - 6♣︎ 6♣︎ 8♣︎ 9♣︎ Q♣︎ 5♢ 9♢ A♢ Q♡ A♠︎
+   Round 1: Player 7 - 5♣︎ 7♣︎ 10♣︎ J♣︎ A♣︎ Q♢ J♡ 5♠︎ 8♠︎ 10♠︎
+   Round 1: Player 8 - 4♣︎ 10♣︎ K♣︎ 2♢ 2♢ 10♢ 7♠︎ 9♠︎ K♠︎ A♠︎
+   Round 1: Player 9 - 2♣︎ 7♣︎ 4♢ K♢ A♢ 7♡ 7♡ 10♡ 2♠︎ 6♠︎
+   Round 1: Player 10 - 3♢ 6♢ 8♢ K♢ 2♡ 3♡ 2♠︎ 5♠︎ 9♠︎ Q♠︎
+   Round 1: KITTY - 4♢ 10♡ 6♠︎ Q♠︎
+
+   Round 2: Player 1 - 4♣︎ 7♣︎ Q♣︎ Q♣︎ K♣︎ 7♢ K♢ 3♡ 2♠︎ 6♠︎
+   Round 2: Player 2 - 6♢ 8♢ 9♢ 5♡ 8♡ J♡ K♡ 5♠︎ 9♠︎ K♠︎
+   Round 2: Player 3 - 3♢ 5♢ 3♡ 4♡ 5♡ A♡ A♡ 7♠︎ 10♠︎ A♠︎
+   Round 2: Player 4 - 4♣︎ 8♣︎ 8♣︎ A♣︎ 3♢ 8♢ 9♢ 7♡ 9♡ 10♡
+   Round 2: Player 5 - 5♣︎ 2♢ 10♢ 10♢ K♢ A♢ 2♡ 9♡ K♡ Q♠︎
+   Round 2: Player 6 - 3♣︎ 6♣︎ 9♣︎ J♣︎ J♢ A♢ 2♡ 6♡ 8♠︎ 10♠︎
+   Round 2: Player 7 - 3♣︎ 10♣︎ 2♢ 4♢ 5♢ J♢ Q♡ 6♠︎ 7♠︎ J♠︎
+   Round 2: Player 8 - 5♣︎ 7♣︎ 10♣︎ 6♢ Q♢ 4♡ 8♡ 2♠︎ 4♠︎ K♠︎
+   Round 2: Player 9 - 2♣︎ J♣︎ Q♢ 6♡ 10♡ 3♠︎ 8♠︎ J♠︎ Q♠︎ A♠︎
+   Round 2: Player 10 - 6♣︎ 9♣︎ A♣︎ 4♢ 7♢ 7♡ J♡ Q♡ 4♠︎ 9♠︎
+   Round 2: KITTY - 2♣︎ K♣︎ 3♠︎ 5♠︎
+
+   Round 3: Player 1 - 7♣︎ J♣︎ 2♢ 4♢ 7♢ J♡ A♡ 2♠︎ 9♠︎ A♠︎
+   Round 3: Player 2 - 6♣︎ 9♣︎ 10♣︎ Q♣︎ K♢ 3♡ 8♡ K♡ K♡ Q♠︎
+   Round 3: Player 3 - 5♣︎ 9♣︎ K♣︎ 4♢ 4♡ 7♡ Q♡ Q♡ 4♠︎ J♠︎
+   Round 3: Player 4 - 6♣︎ K♣︎ 2♢ 3♢ 8♢ 9♢ 9♢ 2♡ 10♡ J♡
+   Round 3: Player 5 - 7♣︎ 5♢ 6♢ J♢ 5♡ 9♡ 3♠︎ 8♠︎ 10♠︎ J♠︎
+   Round 3: Player 6 - 2♣︎ A♣︎ 8♢ 10♢ A♢ 7♡ 2♠︎ 4♠︎ 9♠︎ K♠︎
+   Round 3: Player 7 - 2♣︎ 3♣︎ 5♣︎ 8♣︎ 7♢ 4♡ 6♡ 5♠︎ 7♠︎ K♠︎
+   Round 3: Player 8 - 3♣︎ 4♣︎ 4♣︎ 8♣︎ J♣︎ 3♢ 5♢ 3♡ 5♡ 10♠︎
+   Round 3: Player 9 - Q♣︎ 10♢ J♢ Q♢ A♢ 2♡ 6♡ 6♠︎ 7♠︎ 8♠︎
+   Round 3: Player 10 - K♢ 8♡ 9♡ 10♡ A♡ 3♠︎ 5♠︎ 6♠︎ Q♠︎ A♠︎
+   Round 3: KITTY - 10♣︎ A♣︎ 6♢ Q♢
+
+   Round 4: Player 1 - 2♣︎ 7♣︎ 2♢ 4♢ 7♢ 10♢ J♡ A♡ 2♠︎ A♠︎
+   Round 4: Player 2 - 6♣︎ 9♣︎ 3♢ A♢ 2♡ 6♡ 9♡ K♡ J♠︎ Q♠︎
+   Round 4: Player 3 - 8♣︎ J♣︎ Q♣︎ K♣︎ K♣︎ Q♢ 2♡ 7♡ 6♠︎ 8♠︎
+   Round 4: Player 4 - A♣︎ 3♢ 3♡ 4♡ 9♡ 10♡ 7♠︎ 9♠︎ Q♠︎ K♠︎
+   Round 4: Player 5 - 4♣︎ 7♣︎ 8♣︎ Q♢ 5♡ J♡ Q♡ K♡ 3♠︎ 4♠︎
+   Round 4: Player 6 - 6♣︎ 9♣︎ 10♣︎ J♣︎ A♣︎ 7♢ K♢ 10♡ 4♠︎ 5♠︎
+   Round 4: Player 7 - 3♣︎ 3♣︎ 10♣︎ 10♢ J♢ J♢ 3♡ 8♠︎ 10♠︎ 10♠︎
+   Round 4: Player 8 - Q♣︎ 6♢ 8♢ 4♡ 8♡ A♡ 2♠︎ 9♠︎ J♠︎ A♠︎
+   Round 4: Player 9 - 4♣︎ 5♣︎ 5♣︎ 9♢ 9♢ A♢ 8♡ Q♡ 5♠︎ K♠︎
+   Round 4: Player 10 - 2♣︎ 2♢ 4♢ 5♢ 5♢ 6♢ K♢ 3♠︎ 6♠︎ 7♠︎
+   Round 4: KITTY - 8♢ 5♡ 6♡ 7♡
+
+   Round 5: Player 1 - 2♣︎ 3♣︎ 7♣︎ J♢ Q♢ 7♡ Q♡ Q♡ 10♠︎ A♠︎
+   Round 5: Player 2 - 5♣︎ Q♣︎ 3♢ K♢ A♢ 3♠︎ 6♠︎ 8♠︎ 9♠︎ K♠︎
+   Round 5: Player 3 - 6♣︎ 7♣︎ 10♣︎ J♣︎ 9♢ 10♢ 3♡ 5♠︎ 5♠︎ 9♠︎
+   Round 5: Player 4 - 5♣︎ 9♣︎ J♣︎ K♣︎ A♣︎ 9♢ A♢ 4♡ Q♠︎ K♠︎
+   Round 5: Player 5 - 4♣︎ 8♣︎ K♣︎ 4♢ 8♢ 2♡ 8♡ 10♡ J♡ 7♠︎
+   Round 5: Player 6 - Q♣︎ A♣︎ 5♢ Q♢ K♢ 5♡ 7♡ K♡ 2♠︎ 2♠︎
+   Round 5: Player 7 - 2♣︎ 3♣︎ 10♣︎ 4♢ 5♢ 6♢ 3♠︎ 4♠︎ 7♠︎ 10♠︎
+   Round 5: Player 8 - 2♢ 8♢ 2♡ 6♡ 9♡ 9♡ 10♡ J♡ A♡ 8♠︎
+   Round 5: Player 9 - 2♢ 7♢ 7♢ 10♢ 3♡ 6♡ K♡ A♡ J♠︎ Q♠︎
+   Round 5: Player 10 - 4♣︎ 6♣︎ 8♣︎ 9♣︎ 3♢ J♢ 4♡ 5♡ 8♡ 6♠︎
+   Round 5: KITTY - 6♢ 4♠︎ J♠︎ A♠︎
+
+   Round 6: Player 1 - J♣︎ A♣︎ 3♢ 4♢ J♢ 2♡ 6♡ 8♡ Q♡ 4♠︎
+   Round 6: Player 2 - 5♢ 8♢ 8♢ K♢ 9♡ J♡ A♡ Q♠︎ K♠︎ K♠︎
+   Round 6: Player 3 - 5♣︎ Q♣︎ 6♡ 7♡ 7♡ Q♡ 4♠︎ J♠︎ J♠︎ A♠︎
+   Round 6: Player 4 - 3♣︎ 8♣︎ K♣︎ 5♢ K♢ 3♡ 5♡ 10♡ 5♠︎ 7♠︎
+   Round 6: Player 5 - 6♣︎ 7♣︎ 9♣︎ 10♣︎ 6♢ 9♢ Q♢ 4♡ 10♡ A♠︎
+   Round 6: Player 6 - 2♣︎ 2♢ 10♢ 10♢ Q♢ 8♡ 6♠︎ 8♠︎ 8♠︎ 10♠︎
+   Round 6: Player 7 - 4♣︎ 6♣︎ 8♣︎ J♣︎ 7♢ 7♢ A♢ 9♡ 3♠︎ 5♠︎
+   Round 6: Player 8 - 5♣︎ 7♣︎ 10♣︎ 2♢ 3♢ 5♡ K♡ 2♠︎ 2♠︎ Q♠︎
+   Round 6: Player 9 - 3♣︎ 4♣︎ K♣︎ J♢ 2♡ 3♡ A♡ 3♠︎ 7♠︎ 9♠︎
+   Round 6: Player 10 - 2♣︎ 9♣︎ Q♣︎ A♣︎ 6♢ 9♢ A♢ 4♡ 6♠︎ 10♠︎
+   Round 6: KITTY - 4♢ J♡ K♡ 9♠︎
+
+   Round 7: Player 1 - 5♣︎ 10♣︎ 8♢ 3♡ 9♡ 10♡ K♡ K♡ J♠︎ K♠︎
+   Round 7: Player 2 - 2♣︎ 4♣︎ 5♢ 10♢ J♢ A♢ Q♡ 2♠︎ 10♠︎ Q♠︎
+   Round 7: Player 3 - 9♣︎ K♣︎ 7♢ 9♢ J♡ Q♡ 6♠︎ 6♠︎ 7♠︎ A♠︎
+   Round 7: Player 4 - 5♣︎ 7♣︎ K♣︎ 4♢ 5♢ 7♢ 8♢ 4♡ A♡ 3♠︎
+   Round 7: Player 5 - 2♢ 3♡ 7♡ 8♡ 8♡ 3♠︎ 4♠︎ 7♠︎ 9♠︎ 10♠︎
+   Round 7: Player 6 - 3♣︎ 9♣︎ Q♣︎ A♣︎ 3♢ 9♢ K♢ 5♡ K♠︎ A♠︎
+   Round 7: Player 7 - 3♣︎ 4♣︎ 8♣︎ J♣︎ Q♣︎ 2♡ A♡ 9♠︎ J♠︎ Q♠︎
+   Round 7: Player 8 - 2♣︎ 6♣︎ 6♢ 6♢ 10♢ J♢ Q♢ 2♡ 4♡ 8♠︎
+   Round 7: Player 9 - 6♣︎ 8♣︎ 3♢ A♢ 6♡ 7♡ 2♠︎ 4♠︎ 5♠︎ 8♠︎
+   Round 7: Player 10 - 7♣︎ 10♣︎ J♣︎ 4♢ Q♢ 5♡ 6♡ 9♡ J♡ 5♠︎
+   Round 7: KITTY - A♣︎ 2♢ K♢ 10♡
+
+   Round 8: Player 1 - 3♣︎ 8♣︎ A♣︎ 5♢ 9♢ 2♡ 6♡ 10♡ Q♡ K♡
+   Round 8: Player 2 - 6♣︎ 6♣︎ A♣︎ 4♡ 5♡ J♡ 3♠︎ 8♠︎ 9♠︎ 10♠︎
+   Round 8: Player 3 - 5♣︎ 9♣︎ 2♢ 3♢ 6♢ J♢ Q♢ Q♢ 8♡ 2♠︎
+   Round 8: Player 4 - 2♣︎ 8♣︎ 10♣︎ 5♢ 7♢ 8♡ J♡ A♡ 7♠︎ 10♠︎
+   Round 8: Player 5 - 3♣︎ 5♣︎ 8♢ A♢ 3♡ 4♡ K♡ 5♠︎ 9♠︎ A♠︎
+   Round 8: Player 6 - 2♣︎ 4♣︎ J♣︎ 6♢ K♢ A♢ 6♡ 9♡ J♠︎ A♠︎
+   Round 8: Player 7 - 7♣︎ 9♣︎ Q♣︎ K♣︎ K♣︎ 2♢ 9♢ 7♡ 3♠︎ J♠︎
+   Round 8: Player 8 - 4♣︎ 10♣︎ Q♣︎ 3♢ 4♢ 10♢ 2♠︎ 6♠︎ 8♠︎ K♠︎
+   Round 8: Player 9 - J♣︎ 4♢ 8♢ 2♡ A♡ 4♠︎ 4♠︎ 5♠︎ Q♠︎ Q♠︎
+   Round 8: Player 10 - 7♣︎ 7♢ K♢ 3♡ 5♡ 9♡ 10♡ 6♠︎ 7♠︎ K♠︎
+   Round 8: KITTY - 10♢ J♢ 7♡ Q♡
+
+   Round 9: Player 1 - 2♣︎ Q♣︎ Q♣︎ 2♢ 10♢ A♢ 2♡ 3♡ Q♡ 10♠︎
+   Round 9: Player 2 - 5♣︎ 5♣︎ 10♣︎ Q♢ A♢ 4♡ 6♡ 6♠︎ 7♠︎ 9♠︎
+   Round 9: Player 3 - 3♣︎ 4♣︎ 6♣︎ K♣︎ J♢ J♢ A♡ 2♠︎ K♠︎ K♠︎
+   Round 9: Player 4 - A♣︎ 5♢ 7♢ 9♢ 7♡ 7♡ 9♡ J♡ 4♠︎ 8♠︎
+   Round 9: Player 5 - K♣︎ 2♢ 4♡ 6♡ 9♡ 10♡ K♡ 2♠︎ 9♠︎ J♠︎
+   Round 9: Player 6 - 2♣︎ 7♣︎ 8♣︎ 9♣︎ J♣︎ 7♢ 9♢ 3♡ 10♡ 7♠︎
+   Round 9: Player 7 - 6♣︎ 8♣︎ 8♢ 10♢ K♢ 8♡ A♡ 4♠︎ Q♠︎ A♠︎
+   Round 9: Player 8 - 4♣︎ A♣︎ 3♢ 8♢ Q♢ 2♡ J♡ K♡ 5♠︎ 8♠︎
+   Round 9: Player 9 - J♣︎ 4♢ 5♢ 6♢ 3♠︎ 3♠︎ 5♠︎ 6♠︎ 10♠︎ Q♠︎
+   Round 9: Player 10 - 3♣︎ 9♣︎ 3♢ 4♢ 6♢ K♢ 5♡ 8♡ J♠︎ A♠︎
+   Round 9: KITTY - 7♣︎ 10♣︎ 5♡ Q♡
+
+   Round 10: Player 1 - 4♣︎ 8♣︎ 9♣︎ Q♣︎ 7♢ 9♢ 10♢ 8♡ K♠︎ A♠︎
+   Round 10: Player 2 - 3♣︎ 4♢ 5♢ 5♢ 9♢ J♢ K♢ K♡ 3♠︎ 4♠︎
+   Round 10: Player 3 - 2♣︎ 3♣︎ A♣︎ 2♢ 6♢ 7♢ 9♡ 10♠︎ K♠︎ A♠︎
+   Round 10: Player 4 - K♣︎ A♣︎ 8♢ 3♡ 4♡ 5♡ J♡ 3♠︎ 10♠︎ Q♠︎
+   Round 10: Player 5 - 7♣︎ 9♣︎ 6♢ 10♢ 3♡ 5♡ 7♡ 10♡ 5♠︎ 5♠︎
+   Round 10: Player 6 - J♣︎ 4♢ 2♡ 6♡ 10♡ J♡ K♡ A♡ 2♠︎ 7♠︎
+   Round 10: Player 7 - 10♣︎ K♣︎ 3♢ Q♢ A♢ 4♡ Q♡ Q♡ 2♠︎ 6♠︎
+   Round 10: Player 8 - 4♣︎ 5♣︎ J♣︎ 8♢ K♢ A♢ 2♡ 7♡ 4♠︎ 7♠︎
+   Round 10: Player 9 - 2♣︎ 6♣︎ 7♣︎ 3♢ Q♢ A♡ 8♠︎ 8♠︎ J♠︎ Q♠︎
+   Round 10: Player 10 - 5♣︎ 6♣︎ Q♣︎ J♢ 6♡ 9♡ 6♠︎ 9♠︎ 9♠︎ J♠︎
+   Round 10: KITTY - 8♣︎ 10♣︎ 2♢ 8♡
+
+   Round 11: Player 1 - 3♣︎ A♣︎ 4♢ 8♢ 10♢ A♢ 4♡ Q♡ A♡ Q♠︎
+   Round 11: Player 2 - 2♣︎ 5♣︎ 9♣︎ 10♣︎ 6♢ K♢ 2♡ 8♡ 10♡ A♠︎
+   Round 11: Player 3 - 4♣︎ 5♣︎ Q♣︎ 3♢ 10♢ 9♡ 2♠︎ 5♠︎ 10♠︎ K♠︎
+   Round 11: Player 4 - J♣︎ 2♢ J♢ 8♡ K♡ 3♠︎ 5♠︎ 7♠︎ 8♠︎ J♠︎
+   Round 11: Player 5 - 9♣︎ 10♣︎ J♣︎ 3♢ 5♢ 7♢ Q♢ K♢ 5♡ K♡
+   Round 11: Player 6 - 6♣︎ 7♣︎ 2♢ 7♢ 9♢ J♢ A♡ 4♠︎ 9♠︎ 10♠︎
+   Round 11: Player 7 - K♣︎ 4♢ 6♢ 9♢ 2♡ 4♡ 7♡ 2♠︎ 8♠︎ A♠︎
+   Round 11: Player 8 - 3♣︎ 8♣︎ 8♢ Q♢ 3♡ 5♡ 6♡ 10♡ 3♠︎ J♠︎
+   Round 11: Player 9 - 2♣︎ 4♣︎ Q♣︎ A♢ 3♡ J♡ 4♠︎ 9♠︎ Q♠︎ K♠︎
+   Round 11: Player 10 - 6♣︎ 7♣︎ 8♣︎ K♣︎ 5♢ 6♡ 7♡ J♡ Q♡ 6♠︎
+   Round 11: KITTY - A♣︎ 9♡ 6♠︎ 7♠︎
+
+   Round 12: Player 1 - A♣︎ Q♢ K♢ 3♡ Q♡ 3♠︎ 5♠︎ 7♠︎ 7♠︎ 8♠︎
+   Round 12: Player 2 - Q♣︎ K♣︎ 3♢ 5♢ 7♢ 2♡ K♡ 3♠︎ 9♠︎ A♠︎
+   Round 12: Player 3 - 3♣︎ 7♣︎ 8♣︎ 10♣︎ 4♢ 6♢ 10♢ A♡ 6♠︎ 10♠︎
+   Round 12: Player 4 - 2♣︎ 9♣︎ 10♣︎ 2♢ 9♢ A♢ 2♡ 5♡ 6♡ K♠︎
+   Round 12: Player 5 - 6♢ 7♢ 8♢ 10♢ 3♡ 4♡ 5♡ 7♡ 8♡ J♠︎
+   Round 12: Player 6 - 8♣︎ 2♢ 9♡ J♡ K♡ A♡ 4♠︎ 6♠︎ Q♠︎ A♠︎
+   Round 12: Player 7 - 3♣︎ 4♣︎ 4♣︎ 4♢ Q♢ 7♡ 8♡ Q♡ 4♠︎ J♠︎
+   Round 12: Player 8 - 5♣︎ 5♣︎ 6♣︎ 5♢ 9♢ 9♡ 10♡ J♡ 10♠︎ K♠︎
+   Round 12: Player 9 - 6♣︎ J♣︎ A♣︎ K♢ A♢ 10♡ 2♠︎ 2♠︎ 8♠︎ 9♠︎
+   Round 12: Player 10 - 2♣︎ 7♣︎ J♣︎ Q♣︎ K♣︎ 3♢ 8♢ 4♡ 5♠︎ Q♠︎
+   Round 12: KITTY - 9♣︎ J♢ J♢ 6♡
+
+   Round 13: Player 1 - 8♣︎ 4♢ 6♢ 8♢ 6♡ 9♡ K♡ A♡ 8♠︎ J♠︎
+   Round 13: Player 2 - 2♣︎ J♣︎ Q♣︎ 3♢ 10♢ J♢ 6♡ 8♡ A♡ 6♠︎
+   Round 13: Player 3 - 3♣︎ 9♣︎ 7♢ 10♢ Q♢ 7♡ 4♠︎ 9♠︎ 10♠︎ J♠︎
+   Round 13: Player 4 - 5♣︎ K♣︎ K♣︎ 5♢ 7♢ 8♢ Q♡ 2♠︎ K♠︎ A♠︎
+   Round 13: Player 5 - 2♣︎ 4♣︎ 5♣︎ 9♣︎ J♣︎ A♣︎ 2♠︎ 5♠︎ 9♠︎ Q♠︎
+   Round 13: Player 6 - 3♣︎ 4♣︎ 9♢ K♢ A♢ 2♡ 5♡ 3♠︎ 5♠︎ 8♠︎
+   Round 13: Player 7 - 7♣︎ A♣︎ 2♢ K♢ 5♡ 7♡ J♡ 3♠︎ 6♠︎ 10♠︎
+   Round 13: Player 8 - 6♣︎ 10♣︎ Q♣︎ 2♢ J♢ 4♡ 8♡ 4♠︎ 7♠︎ 7♠︎
+   Round 13: Player 9 - 8♣︎ 3♢ 5♢ Q♢ A♢ 2♡ 3♡ Q♡ K♡ A♠︎
+   Round 13: Player 10 - 6♣︎ 4♢ 6♢ 9♢ 3♡ 4♡ 9♡ 10♡ J♡ K♠︎
+   Round 13: KITTY - 7♣︎ 10♣︎ 10♡ Q♠︎
+
+   Round 14: Player 1 - K♣︎ 2♢ 4♢ 6♢ 7♢ 5♡ A♡ 2♠︎ 4♠︎ 5♠︎
+   Round 14: Player 2 - 4♣︎ 10♣︎ A♣︎ 6♢ 7♢ 3♡ 7♡ 9♡ K♡ 4♠︎
+   Round 14: Player 3 - 10♣︎ 3♢ 3♡ 5♡ 6♡ A♡ 2♠︎ 9♠︎ 10♠︎ J♠︎
+   Round 14: Player 4 - 3♣︎ 4♣︎ J♣︎ J♡ J♡ Q♡ Q♡ K♡ 10♠︎ Q♠︎
+   Round 14: Player 5 - 3♣︎ 7♣︎ K♣︎ 5♢ J♢ K♢ 2♡ 4♡ 8♠︎ 9♠︎
+   Round 14: Player 6 - 5♣︎ 9♣︎ 9♣︎ J♣︎ 2♢ 3♢ 4♢ A♢ 8♠︎ A♠︎
+   Round 14: Player 7 - 2♣︎ Q♢ A♢ 10♡ 3♠︎ 5♠︎ 7♠︎ J♠︎ K♠︎ A♠︎
+   Round 14: Player 8 - 7♣︎ A♣︎ 5♢ 8♢ 8♢ 9♢ 10♢ Q♢ 4♡ 7♠︎
+   Round 14: Player 9 - 5♣︎ 6♣︎ 10♢ J♢ 2♡ 6♡ 8♡ 9♡ 3♠︎ 6♠︎
+   Round 14: Player 10 - 2♣︎ 6♣︎ 8♣︎ Q♣︎ 9♢ K♢ 8♡ 6♠︎ Q♠︎ K♠︎
+   Round 14: KITTY - 8♣︎ Q♣︎ 7♡ 10♡
+
+   Round 15: Player 1 - 2♣︎ 10♣︎ 2♢ 5♢ 7♢ K♢ K♢ 4♠︎ 6♠︎ J♠︎
+   Round 15: Player 2 - 5♣︎ J♣︎ J♣︎ 5♡ 9♡ A♡ 3♠︎ 3♠︎ 7♠︎ J♠︎
+   Round 15: Player 3 - 2♢ 3♢ 7♢ 8♢ 8♢ 4♡ 2♠︎ 4♠︎ 8♠︎ 9♠︎
+   Round 15: Player 4 - 2♣︎ 4♣︎ 5♣︎ 6♣︎ 6♣︎ 7♣︎ A♣︎ 9♢ 10♡ 7♠︎
+   Round 15: Player 5 - A♣︎ 4♢ 6♢ 7♡ 7♡ Q♡ K♡ K♡ 9♠︎ Q♠︎
+   Round 15: Player 6 - 8♣︎ K♣︎ Q♢ A♢ 6♡ J♡ A♡ 6♠︎ 8♠︎ 10♠︎
+   Round 15: Player 7 - 4♣︎ 7♣︎ 10♣︎ Q♣︎ 10♢ 10♢ J♢ A♢ K♠︎ K♠︎
+   Round 15: Player 8 - 3♣︎ 8♣︎ K♣︎ 6♢ 9♢ J♢ 8♡ J♡ 2♠︎ Q♠︎
+   Round 15: Player 9 - 9♣︎ 9♣︎ 5♢ Q♢ 3♡ 4♡ 8♡ Q♡ 5♠︎ A♠︎
+   Round 15: Player 10 - 3♣︎ Q♣︎ 3♢ 2♡ 2♡ 3♡ 9♡ 5♠︎ 10♠︎ A♠︎
+   Round 15: KITTY - 4♢ 5♡ 6♡ 10♡
+
+   Round 16: Player 1 - 4♣︎ J♣︎ 6♢ 7♢ A♢ 2♡ 7♡ Q♡ 10♠︎ J♠︎
+   Round 16: Player 2 - 7♣︎ 2♢ A♢ 9♡ J♡ 3♠︎ 4♠︎ 6♠︎ K♠︎ K♠︎
+   Round 16: Player 3 - 3♣︎ 5♣︎ 6♣︎ 9♣︎ 3♢ Q♢ 6♡ 3♠︎ 10♠︎ J♠︎
+   Round 16: Player 4 - 4♣︎ 10♣︎ 4♢ 6♢ 9♢ 10♢ J♢ 3♡ A♡ Q♠︎
+   Round 16: Player 5 - K♣︎ 7♢ Q♢ K♢ 4♡ 5♡ Q♡ K♡ 8♠︎ 8♠︎
+   Round 16: Player 6 - 2♣︎ 5♣︎ 6♣︎ Q♣︎ A♣︎ 2♢ K♢ 10♡ 2♠︎ 5♠︎
+   Round 16: Player 7 - 2♣︎ 8♣︎ A♣︎ 8♢ J♢ 2♡ 4♡ 7♠︎ 9♠︎ A♠︎
+   Round 16: Player 8 - 7♣︎ 9♣︎ 10♣︎ Q♣︎ 4♢ 9♢ 10♢ 3♡ 6♡ K♡
+   Round 16: Player 9 - J♣︎ K♣︎ 3♢ 8♢ 8♡ J♡ 2♠︎ 6♠︎ 7♠︎ Q♠︎
+   Round 16: Player 10 - 3♣︎ 8♣︎ 5♢ 5♡ 7♡ 8♡ 9♡ 10♡ 9♠︎ A♠︎
+   Round 16: KITTY - 5♢ A♡ 4♠︎ 5♠︎
+
+   Round 17: Player 1 - 2♣︎ 5♣︎ 9♣︎ 3♢ 4♢ 2♡ 3♡ 6♠︎ Q♠︎ K♠︎
+   Round 17: Player 2 - 5♣︎ 5♢ 9♢ Q♢ A♢ 7♡ 8♡ 6♠︎ 7♠︎ 8♠︎
+   Round 17: Player 3 - 7♣︎ 8♣︎ K♣︎ 7♢ 3♡ 4♡ 6♡ K♡ A♡ 10♠︎
+   Round 17: Player 4 - 2♣︎ 3♣︎ 6♣︎ 10♣︎ 10♣︎ K♣︎ 6♢ 8♢ Q♡ Q♡
+   Round 17: Player 5 - 4♣︎ J♣︎ 3♢ 2♡ 4♡ A♡ 2♠︎ 8♠︎ J♠︎ A♠︎
+   Round 17: Player 6 - 7♣︎ 2♢ J♢ Q♢ A♢ 7♡ 10♡ 4♠︎ Q♠︎ K♠︎
+   Round 17: Player 7 - 9♢ 10♢ K♢ 5♡ 6♡ 10♡ 5♠︎ 7♠︎ 10♠︎ J♠︎
+   Round 17: Player 8 - J♣︎ 8♢ 5♡ 8♡ 9♡ J♡ K♡ 2♠︎ 4♠︎ A♠︎
+   Round 17: Player 9 - 6♣︎ 9♣︎ Q♣︎ 2♢ 7♢ 10♢ 9♡ 3♠︎ 3♠︎ 9♠︎
+   Round 17: Player 10 - 3♣︎ 4♣︎ 8♣︎ A♣︎ 4♢ 5♢ 6♢ J♢ J♡ 9♠︎
+   Round 17: KITTY - Q♣︎ A♣︎ K♢ 5♠︎
+
+   Round 18: Player 1 - 3♣︎ 8♣︎ K♣︎ K♣︎ 3♢ 4♢ K♢ 8♡ 2♠︎ J♠︎
+   Round 18: Player 2 - 2♣︎ 3♣︎ 7♣︎ 7♢ 3♡ 3♡ 4♡ 10♡ 5♠︎ 7♠︎
+   Round 18: Player 3 - A♢ 5♡ 6♡ 7♡ 8♡ K♡ 3♠︎ 6♠︎ Q♠︎ Q♠︎
+   Round 18: Player 4 - 8♣︎ 2♢ 7♢ 10♢ J♢ 2♡ 9♡ 10♡ 9♠︎ K♠︎
+   Round 18: Player 5 - 2♣︎ 4♣︎ 7♣︎ Q♣︎ 4♢ 5♢ 8♢ A♡ 6♠︎ 9♠︎
+   Round 18: Player 6 - 5♣︎ 5♣︎ 9♢ 9♢ 7♡ Q♡ 3♠︎ 7♠︎ 10♠︎ K♠︎
+   Round 18: Player 7 - 6♣︎ 10♣︎ A♣︎ J♢ 4♡ 6♡ J♡ Q♡ K♡ A♡
+   Round 18: Player 8 - 6♣︎ J♣︎ J♣︎ A♣︎ 2♢ 8♢ 5♡ 9♡ 2♠︎ A♠︎
+   Round 18: Player 9 - 9♣︎ 9♣︎ Q♣︎ 5♢ 6♢ A♢ 4♠︎ 8♠︎ 10♠︎ A♠︎
+   Round 18: Player 10 - 4♣︎ 10♣︎ 3♢ 6♢ 10♢ Q♢ K♢ 4♠︎ 8♠︎ J♠︎
+   Round 18: KITTY - Q♢ 2♡ J♡ 5♠︎
+
+   Round 19: Player 1 - 4♣︎ 7♣︎ 2♡ 3♡ 6♡ 2♠︎ 3♠︎ 4♠︎ 8♠︎ A♠︎
+   Round 19: Player 2 - 3♣︎ 7♣︎ J♣︎ Q♣︎ K♣︎ 2♢ 5♢ 10♢ K♢ 5♡
+   Round 19: Player 3 - 9♣︎ Q♣︎ 4♢ 7♢ Q♢ 10♡ Q♡ A♡ 10♠︎ K♠︎
+   Round 19: Player 4 - 2♣︎ 5♣︎ 6♣︎ 8♣︎ 2♢ 7♢ K♢ 4♡ 8♠︎ K♠︎
+   Round 19: Player 5 - 10♣︎ A♣︎ 3♢ 3♢ 6♢ 9♢ J♢ A♡ 7♠︎ J♠︎
+   Round 19: Player 6 - J♣︎ 8♢ 10♢ Q♢ 2♡ 6♡ 2♠︎ 5♠︎ J♠︎ Q♠︎
+   Round 19: Player 7 - 3♣︎ 5♣︎ 8♢ 9♢ 5♡ 9♡ 9♡ J♡ 7♠︎ Q♠︎
+   Round 19: Player 8 - 4♣︎ 6♣︎ 8♣︎ A♣︎ 4♢ 10♡ K♡ 3♠︎ 4♠︎ 9♠︎
+   Round 19: Player 9 - 2♣︎ 10♣︎ J♢ 7♡ 8♡ 8♡ K♡ 5♠︎ 6♠︎ 9♠︎
+   Round 19: Player 10 - 9♣︎ K♣︎ A♢ A♢ 3♡ 4♡ Q♡ 6♠︎ 10♠︎ A♠︎
+   Round 19: KITTY - 5♢ 6♢ 7♡ J♡
+
+   Round 20: Player 1 - 3♣︎ A♣︎ A♣︎ 6♢ Q♢ 2♡ 9♡ J♡ A♡ A♠︎
+   Round 20: Player 2 - 8♣︎ J♣︎ 9♢ 3♡ 6♡ 9♡ 5♠︎ 7♠︎ J♠︎ K♠︎
+   Round 20: Player 3 - 7♣︎ 5♢ J♢ A♢ 4♡ 4♡ 10♡ 2♠︎ 3♠︎ 4♠︎
+   Round 20: Player 4 - 2♣︎ 10♣︎ 6♢ 9♢ 10♢ A♢ 2♡ 5♡ 2♠︎ A♠︎
+   Round 20: Player 5 - 4♣︎ 9♣︎ 10♣︎ 7♢ 7♢ 8♢ J♢ K♢ 7♠︎ Q♠︎
+   Round 20: Player 6 - Q♣︎ 3♢ 8♢ 10♢ Q♢ 3♡ Q♡ A♡ 8♠︎ 8♠︎
+   Round 20: Player 7 - 2♣︎ 3♣︎ 5♣︎ Q♣︎ 4♢ 4♢ J♡ K♡ 6♠︎ 10♠︎
+   Round 20: Player 8 - 6♣︎ J♣︎ K♣︎ K♣︎ 5♡ 7♡ 8♡ 9♠︎ J♠︎ Q♠︎
+   Round 20: Player 9 - 5♣︎ 6♣︎ 8♣︎ K♢ 6♡ 7♡ 10♡ Q♡ K♡ 6♠︎
+   Round 20: Player 10 - 4♣︎ 7♣︎ 9♣︎ 2♢ 2♢ 3♢ 5♢ 8♡ 3♠︎ K♠︎
+   Round 20: KITTY - 4♠︎ 5♠︎ 9♠︎ 10♠︎
+
