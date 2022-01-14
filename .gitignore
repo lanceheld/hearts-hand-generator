@@ -1,3 +1,4 @@
 node_modules/
 hearts/
 *.zip
+.DS_Store
